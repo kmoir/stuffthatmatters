@@ -7,11 +7,11 @@ This is a brief outline of the topics I intend to cover.  I have done quite a bi
 *  History of the shift from social welfare to punitive intervention (started with Johnson) From reference (1) page 14 below ""When Johnson introduced a comprehensive antipoverty program in low-income urban communities for the first time while simultaneously launching an anticrime intervention, the balance tilted from social welfar to punishment as the national law enforcement program crowded out the goals of the poverty war.""
 * Black men have a much higher arrest rate, incareration rate, and longer sentences in prison due to systematic rascism and racial profiling by police. i.e. stop and frisk stops more black men but white men have comparable rates of consuming/selling drugs (reference (2))
 * From Southern Poverty Law Center ""It’s a system marred by vast racial disparities – one that stigmatizes and targets young black men for arrest at a young age, unfairly punishes communities of color, burdens taxpayers and exacts a tremendous social cost. Today, African-American men who failed to finish high school are more likely to be behind bars than employed.""
-(Reference (9)
-* How the war on drugs provides a source of funds for police departments which encourages them to seek more arrests (started with Reagan)
+(Reference (9))
+* How the war on drugs provides a source of funds for police departments which encourages them to seek more arrests (started with Reagan) (Reference (2))
 * Militerization of police forces with military grade hardware (page 65 in reference (1) and (2)
 * Impact of a felony conviction on disenfranchishment of voters, especially in black, Latino and Native American communuities. Lack of representation to have their voices heard. Depending on the state, some are disenfranchised for life, some are unable to vote until they pay a series of fees (reference (2))
-* Other impacts on civil rights - punishment for free assembly in protest to institualized violence against communities of colour (i.e. police murders of unarmed people)
+* Other impacts on civil rights - punishment for free assembly in protest to institutionalized violence against communities of colour (i.e. police murders of unarmed people)
 * For profit prisons - Again, the profit incentive encourages more arrests, longer convictions and their is no incentive to implement programs (educational, vocational and so on) to reduce recidivism rates. (reference (2))
 * How a felony conviction can continue the cycle of poverty by due to the fees an inmate must pay  associated with leaving prison (reference (2))
 * Impact on having a parent in prison in the children of inmates (reference (6)
@@ -28,7 +28,7 @@ This is a brief outline of the topics I intend to cover.  I have done quite a bi
 * mandatory minimum
 * evidence of what actually reduces recidivisim
 * impact of solidary confinement on mental health
-* overcrowding in prisons
+* overcrowding in prisons (Reference (3))
 * lack of funding for educational initiatives and programs to reduce addictions in prison
 * links between childhood abuse, substance abuse and subsquent incarceration
 * criminal justice reform
