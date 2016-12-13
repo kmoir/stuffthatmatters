@@ -1,7 +1,7 @@
 The chapter on mass incarceration and the prison-industrial complex for http://third-bit.com/2016/11/13/stuff-that-actually-matters.html
 
 ## Outline
-This is a brief outline of the topics I intend to cover.  I have done quite a bit of reading on mass incareration in the US and Canada.  I thought I would limit the scope to these countries.  I''m not sure if I should give examples of countries that take a more social justice approach to imprisonment as a contrast or just state the reasons why the current systems in place are so broken.  I''ll include references to all the statistics I include in the actual book chapter, but here are some concepts I''d like to cover.  
+This is a brief outline of the topics I intend to cover.  I have done quite a bit of reading on mass incarceration in the US and Canada.  I thought I would limit the scope to these countries.  I''m not sure if I should give examples of countries that take a more social justice approach to imprisonment as a contrast or just state the reasons why the current systems in place are so broken.  I''ll include references to all the statistics I include in the actual book chapter, but here are some concepts I''d like to cover.  Also, I''ll improve my references to include more academic literature, right many are from books and newspaper articles which often lack citations to actual research
 
 ### USA specific
 *  History of the shift from social welfare to punitive intervention (started with Johnson) From reference (1) page 14 below ""When Johnson introduced a comprehensive antipoverty program in low-income urban communities for the first time while simultaneously launching an anticrime intervention, the balance tilted from social welfar to punishment as the national law enforcement program crowded out the goals of the poverty war.""
@@ -33,6 +33,7 @@ This is a brief outline of the topics I intend to cover.  I have done quite a bi
 * links between childhood abuse, substance abuse and subsquent incarceration
 * criminal justice reform
 * drug addiction in many cases is treated as a moral failure that requires a prison sentence when instead it should be treated as a public health issue. Implementation of policies for harm reduction for people with substance abuse issues vs imprisonment have better outcomes
+* statistics on the profile prisoners - i.e. it''s not a violent offender, it''s likely a person who has mental health and/or addiction issues (See reference (10)
 
 Topics that perhaps are relevant
 * Welfare reform under Clinton (put time limits on people receiving benefits, hurt mostly single mothers, vilified single mothers on welfare, the reality was low wage jobs that didn''t provide health care made it very difficult to survive)
@@ -48,3 +49,5 @@ References
 * 7. http://www.macleans.ca/news/why-adam-capay-has-spent-1560-days-in-solitary/ (Adam Capay spending 4yrs in solitary)
 * 8. http://www.macleans.ca/news/canada/canadas-prisons-are-the-new-residential-schools/ (Investigation why the Canadian Justice system is biased against indigeneous people)
 * 9. https://www.splcenter.org/issues/mass-incarceration (Southern Poverty Law Centre)
+* 10. https://news.vice.com/article/no-one-seems-to-care-about-prison-reform-in-canada (Why prison reform is not seen as a priority for most Canadians)
+* 11. http://www.efryottawa.com/resources.html (elizabeth fry society links)
