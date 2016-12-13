@@ -38,11 +38,11 @@ Topics that perhaps are relevant
 
 
 References
-1) From the War on Poverty to the War on Crime: The Making of Mass Incareration in America (Elizabeth Hinton)
-2) The New Jim Crow: Mass Incarceration in the Age of Colourblindness (Michelle Alexander)
-3)  https://news.vice.com/story/canadas-prison-guard-warn-of-jail-crisis?utm_source=vicetwitterca (overcrowding)
-4) http://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html?smid=nytcore-iphone-share&smprod=nytcore-iphone&referer=https://t.co/IYQsa8WGIx (mothers in prison)
-5) http://mobile.nytimes.com/2016/12/03/nyregion/new-york-state-prisons-inmates-racial-bias.html?smid=tw-nytmetro&smtyp=cur&_r=0&referer=https://t.co/GYHxMsvKtR (racial bias NY prisons)
-6) http://www.rsfjournal.org/doi/full/10.7758/RSF.2016.2.6.07 (relationship between incarceration and the family wealth gap found that incarceration of a family member is associated with a 64 percent decline in household assets, magnifying poverty and the race gap in America)
-7) http://www.macleans.ca/news/why-adam-capay-has-spent-1560-days-in-solitary/ (Adam Capay spending 4yrs in solitary)
-8) http://www.macleans.ca/news/canada/canadas-prisons-are-the-new-residential-schools/ (Investigation why the Canadian Justice system is biased against indigeneous people)
+1. From the War on Poverty to the War on Crime: The Making of Mass Incareration in America (Elizabeth Hinton)
+2. The New Jim Crow: Mass Incarceration in the Age of Colourblindness (Michelle Alexander)
+3.  https://news.vice.com/story/canadas-prison-guard-warn-of-jail-crisis?utm_source=vicetwitterca (overcrowding)
+4. http://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html?smid=nytcore-iphone-share&smprod=nytcore-iphone&referer=https://t.co/IYQsa8WGIx (mothers in prison)
+5. http://mobile.nytimes.com/2016/12/03/nyregion/new-york-state-prisons-inmates-racial-bias.html?smid=tw-nytmetro&smtyp=cur&_r=0&referer=https://t.co/GYHxMsvKtR (racial bias NY prisons)
+6. http://www.rsfjournal.org/doi/full/10.7758/RSF.2016.2.6.07 (relationship between incarceration and the family wealth gap found that incarceration of a family member is associated with a 64 percent decline in household assets, magnifying poverty and the race gap in America)
+7. http://www.macleans.ca/news/why-adam-capay-has-spent-1560-days-in-solitary/ (Adam Capay spending 4yrs in solitary)
+8. http://www.macleans.ca/news/canada/canadas-prisons-are-the-new-residential-schools/ (Investigation why the Canadian Justice system is biased against indigeneous people)
