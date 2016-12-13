@@ -1,5 +1,4 @@
-# The chapter on mass incarceration and the prison-industrial complex
-# for http://third-bit.com/2016/11/13/stuff-that-actually-matters.html
+The chapter on mass incarceration and the prison-industrial complex for http://third-bit.com/2016/11/13/stuff-that-actually-matters.html
 
 ## Outline
 This is a brief outline of the topics I intend to cover.  I have done quite a bit of reading on mass incareration in the US and Canada.  I thought I would limit the scope to these countries.  I''m not sure if I should give examples of countries that take a more social justice approach to imprisonment as a contrast or just state the reasons why the current systems in place are so broken.  I''ll include references to all the statistics I include in the actual book chapter, but here are some concepts I''d like to cover.  
