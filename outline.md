@@ -3,11 +3,17 @@ The chapter on mass incarceration and the prison-industrial complex for http://t
 ## Outline
 This is a brief outline of the topics I intend to cover.  I have done quite a bit of reading on mass incarceration in the US and Canada.  I thought I would limit the scope to these countries.  I''m not sure if I should give examples of countries that take a more social justice approach to imprisonment as a contrast or just state the reasons why the current systems in place are so broken.  I''ll include references to all the statistics I include in the actual book chapter, but here are some concepts I''d like to cover.  Also, I''ll improve my references to include more academic literature, right many are from books and newspaper articles which often lack citations to research.
 
-### USA specific
-*  History of the shift from social welfare to punitive intervention (started with Johnson) From reference (1) page 14 below ""When Johnson introduced a comprehensive antipoverty program in low-income urban communities for the first time while simultaneously launching an anticrime intervention, the balance tilted from social welfar to punishment as the national law enforcement program crowded out the goals of the poverty war.""
-* Black men have a much higher arrest rate, incareration rate, and longer sentences in prison due to systematic rascism and racial profiling by police. i.e. stop and frisk stops more black men but white men have comparable rates of consuming/selling drugs (reference (2))
+### Introduction 
+* quotes to use
+* ""In Canada, the Indigenous incarceration rate is 10 times higher than the non-Indigenous population--higher even than South Africa at the height of Apartheid""(Reference (8))
+
 * From Southern Poverty Law Center ""It’s a system marred by vast racial disparities – one that stigmatizes and targets young black men for arrest at a young age, unfairly punishes communities of color, burdens taxpayers and exacts a tremendous social cost. Today, African-American men who failed to finish high school are more likely to be behind bars than employed.""
 (Reference (9))
+
+
+### USA specific
+*  History of the shift from social welfare to punitive intervention (started with Johnson) From reference (1) page 14 below ""When Johnson introduced a comprehensive anti-poverty program in low-income urban communities for the first time while simultaneously launching an anticrime intervention, the balance tilted from social welfar to punishment as the national law enforcement program crowded out the goals of the poverty war.""
+* Black men have a much higher arrest rate, incareration rate, and longer sentences in prison due to systematic rascism and racial profiling by police. i.e. stop and frisk stops more black men but white men have comparable rates of consuming/selling drugs (reference (2))
 * How the war on drugs provides a source of funds for police departments which encourages them to seek more arrests (started with Reagan) (Reference (2))
 * Militerization of police forces with military grade hardware (page 65 in reference (1) and (2)
 * Impact of a felony conviction on disenfranchishment of voters, especially in black, Latino and Native American communuities. Lack of representation to have their voices heard. Depending on the state, some are disenfranchised for life, some are unable to vote until they pay a series of fees (reference (2))
@@ -58,3 +64,7 @@ References
 To read
 * http://www.lop.parl.gc.ca/content/lop/researchpublications/prb9924-e.htm (Report on the Royal Commission on Aboriginal People)
 * https://en.wikipedia.org/wiki/Incarceration_in_the_United_States#Privatization (links in document)
+* http://everydayfeminism.com/2017/01/poor-black-neighborhood-created/
+* https://www.thestar.com/news/canada/2016/10/27/prisons-in-canada-are-increasing-the-phone-costs-for-inmates.html
+* https://www.nytimes.com/2015/03/31/us/steep-costs-of-inmate-phone-calls-are-under-scrutiny.html
+
