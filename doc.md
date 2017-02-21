@@ -12,6 +12,7 @@
 * todo - maybe I should mention "Thinking in Systems", inputs are poverty, incarceration, lost income, disenfranchisement.  Impact of police forces having equipment funded by high number of drug seizures.
 
 * todo - should write this last
+
 For many people, the police are seen as a force for good and serve in their role to protect their communities from harm.  But that it a sentiment that is not shared by many communities for many reasons that are readily apparent given their lived experiences.  Stop and frisk efforts disproportionally target Black, Latinx, and Indigenous people.  Despite having similiar rates of illicit drug use and sale, these same groups of people are charged and incarcerated for these offenses at a much higher rate than white people.  The impact of these communities are devastating. Higher incarceration rates mean parents aren''t able to work to support their families.  (mention associated reduction in tax revenues that impact schools?)  Many states prevent those with felony records from voting, which disenfranchises swatches of the population from exercising their democratic right to cast a ballot.  It also prevents these same people from electing officials in their communities who will pursue criminal justice reform, thus continuing the cycle of poverty, incarceration, lost income and again disenfranchisement. 
 
 With signing of the Civil Rights Act of 1964, discrimination based on race, colour, religion, sex or national origin was outlawed. *<sup>[3](#myfootnote3)</sup> It ended racially segregated schools
