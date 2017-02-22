@@ -77,10 +77,12 @@ To recap, pretext stops allowed police officers to stop individuals for a minor 
 an large increase in the number of people charged with drug crimes. Many were indigent, and did not have the means to pay for counsel.  The caseload for public defenders is high, they are poorly compensated and many provide inadequate representation for their clients.  The end result is many more people in prison.
 
 
+Summary:
 
 To further exacerbate the issues of representation in court, some juridictions don''t have enough public defender lawyers to support those who need these services.  
 <sup>[20](#myfootnote20)</sup> (this info is from a much later date than 1980s, perhaps would be good for summary)
 
+Alantic article on ending Mass Incarceration
 
 
 
@@ -103,4 +105,5 @@ To further exacerbate the issues of representation in court, some juridictions d
 
 * <a name="myfootnote20">20</a>:  Debra Cassens Weiss: American Bar Association Journal. Louisiana''s public defender system is understaffed by about 1,400 lawyers, ABA study finds, http://www.abajournal.com/news/article/louisianas_public_defender_system_is_understaffed_by_about_1400_lawyers_aba/ 
 * <a name="myfootnote29">29</a>: Debra Black: South Bend Tribune, Jan 9, 2017, "Questions surround Indiana's prison health care contract", http://m.southbendtribune.com/news/local/questions-surround-indiana-s-prison-health-care-contract/article_fe7dd411-47b8-5546-a46b-04c56549b10f.html (reduced money allocated to health care to save costs)
-* <a name="myfootnote12">30</a>: Nicholas Kristof: "Mothers in Prison", New York Times, November 25, 2016 https://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html
+* <a name="myfootnote30">30</a>: Nicholas Kristof: "Mothers in Prison", New York Times, November 25, 2016 https://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html
+* <a name="myfootnote31">31</a>: Matt Ford, The Atlantic, December 16, 2016, A Blueprint to End Mass Incarceration, https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749/?utm_source=twb 
