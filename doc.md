@@ -69,6 +69,36 @@ p 133 racial profiling in policing  as well as whites more likely to carry contr
 
 To recap, pretext stops allowed police officers to stop individuals for a minor traffic infraction as a pretext stop.  Once the vehicle was stopped, they were allowed to search the car for drugs, despite lacking any evidence that there were any drugs in the car.  The Supreme Court upheld that this was not a violation of the Fourth Amendment to unreasonable search and seizure.  More federal funding for additonal state and local police officers and military grade equipment to fight the War on Drugs led to an increase in drug arrests.  As well, forfeiture of the assets of people charged with drug posession or distribtion provided a strong incentive to continue to increase their drug arrests.  The result was an large increase in the number of people charged with drug crimes. Many were indigent, and did not have the means to pay for counsel.  The caseload for public defenders is high, they are poorly compensated and many provide inadequate representation for their clients.  The end result is many more people in prison.
 
+To cope with the growth in prison populations due to the War on Drugs, the federal government outsourced the operation of some prisons to private companies, such as Corrections Corporation of America, now called CoreCivic.  The shift to private prisons shifted the goal to lower prison costs as much as possible, to generate the highest profits possible for shareholders and company executives. Contracts for private prisons are negotiated on a per-diem basis, with a set cost per day per prisoner for healthcare, food and accommodations.  There have been several cases that have come to light where prisoners have received the health care they need, because these private prisons are unwilling to pay for required health care. For instance, the unsurprising outcome was that care for prisoners was reduced in private prisons, with devastating results.  For instance, the South Bend Tribune describes the case of a tort claim filed by civil rights attorney Micheal Sutherland against the Indiana Women''s prison: 
+
+*The prisoner, Tiffany Smith, described in a letter the events that began with excruciating pain, nausea, and a large knot that emerged on the right side of her abdomen, where her skin had turned black. The 35-year-old said even guards remarked on the lack of medical response to what turned out to be a ruptured appendix.*  
+
+*After a first emergency surgery, Smith wrote, the surgeon said her body cavity was filled with the most infection he had ever seen. After several days in an ICU, she was dismissed back to the prison infirmary with prescriptions and strict instructions about wound care, which she alleges were not followed.*
+
+*Near death again, Smith and the tort claim allege, she was rushed back to a hospital for emergency surgery, where “the surgeon had to remove my organs, wash the infection off of them, and put them back.”*
+
+*The tort claim describes several instances in which guards and some medical staff insisted Smith be sent to a hospital but were overruled by a doctor — for a common condition that “is also easy to diagnose if the proper steps are taken.”*
+<sup>[29](#myfootnote29)</sup> 
+
+Per profit prisons need more and more prisons to be built to keep their profits growing.  These corporations profits depend on more arrests, and longer sentences upon conviction to keep their business to grow.  Also, with their primary incentive is their own profit, not reducing the recidisvism rate through educational or vocational traiing programs.  They are optimized to sweep as much profit from taxpapers for their services, while there are few incentives to improve the living conditions of prisoners, or to reduce the chance they will return to prison.
+
+In August 2016, Deputy Attorney Sally Yates released a memo indicating that the US Justice department would stop using private prisons due to reports that they do not have the same level of safety or quality as those run by the Bureau of Corrections.  The aim was to let contracts with private prisons run their course and not be renewed.  Unfortunately, this directive was rescinded byt the subsequent adminstration so the health and living conditions of prisoners in private prisons will continue to be substandard substandard to that offered by the Bureau of Corrections.
+<sup>[30](#myfootnote30)</sup> 
+
+
+The Thirteenth Amendment to the United States Constitution abolished slavery and involuntary servitude.  There is one exception - as punishment for a crime.  The result of this is that prisoners can be forced to work, and paid nothing, or a few pennies an hour.   
+
+*More than a century later, our prison labor system has only grown. We now incarcerate more than 2.2 million people, with the largest prison population in the world, and the second highest incarceration rate per capita. Our prison populations remain racially skewed. With few exceptions, inmates are required to work if cleared by medical professionals at the prison. Punishments for refusing to do so include solitary confinement, loss of earned good time, and revocation of family visitation. For this forced labor, prisoners earn pennies per hour, if anything at all.*
+<sup>[31](#myfootnote31)</sup> 
+
+Companies that have used prison labour include Victoria''s Secret to sew underwear, mining industries, manufacturing including manufacturing military weapons.  In addition, some call centres are staffed by prisoners.  The tech industry has also been implicated in using prison labour:
+
+*In the mid-1990s, Washington prisoners shrink-wrapped software and up to 20,000 Microsoft mouses for subcontractor Exmark (other reported clients: Costco and JanSport). "We don''t see this as a negative," a Microsoft spokesman said at the time. Dell used federal prisoners for PC recycling in 2003, but stopped after a watchdog group warned that it might expose inmates to toxins.*
+<sup>[32](#myfootnote32)</sup> 
+
+Not only are their wages unfair, they are not protected by labour codes that protect workers on the outside.  Their labour is outsourced to many companies who reap handome profits from slave wages.*
+
+
 p 143
 upon leaving prison, the person may not be be able to vote for a certain period of time or forever, be unable to qualify for some types of employment, public housing, federally funded health benefits, food stamps, educational benefits.  Judges are not under obligation to inform people that they will lose these rights when they plead out to a felony.  Once they leave the prison, they will need a place to stay.  One of the tenants of HUD (Housing and Urban Development) One Strike guide is that if you have any convictions for any crimes, you can be denied housing.  This also applies to people who stay with you in public housing.  So often people are reluctant to let relatives stay with them after they have recently left prison to mitigate the chance that they will lose their housing.  If you are charged with a minor drug crime, you can lose your housing, which may lead you to lose custody of your children to foster care because you are homeless.  ""A study conducted by the McCormick Institute of Public Affairs found that nearly a quarter of gues at homeless shelters had been incarcerated within the previous year--people who were unable to find somewhere else to live after release from prison walls""p147
  
@@ -79,15 +109,21 @@ upon leaving prison, the person may not be be able to vote for a certain period 
 
 Summary:
 
+Mass Incareration marginalizes predomininately black, Latinx and Indigeneous people from participating fully in society.  
+
 To further exacerbate the issues of representation in court, some juridictions don''t have enough public defender lawyers to support those who need these services.  
 <sup>[20](#myfootnote20)</sup> (this info is from a much later date than 1980s, perhaps would be good for summary)
+
+Richardson v. Ramirez, 418 U.S. 24 (1974), held that convicted felons could be barred from voting without violating the Fourteenth Amendment.
+https://en.wikipedia.org/wiki/Richardson_v._Ramirez
+
 
 Alantic article on ending Mass Incarceration
 
 Further steps
 
-Evidence from another country with low recidisvism rates, treats drug addiction as a public health issue in terms of harm reduction
-
+Example from Norway with low recidisvism rates, treats drug addiction as a public health issue in terms of harm reduction
+https://www.theguardian.com/society/2013/feb/25/norwegian-prison-inmates-treated-like-people
 
 ## Footnotes
 
@@ -107,5 +143,8 @@ Evidence from another country with low recidisvism rates, treats drug addiction 
 
 * <a name="myfootnote20">20</a>:  Debra Cassens Weiss: American Bar Association Journal. Louisiana''s public defender system is understaffed by about 1,400 lawyers, ABA study finds, http://www.abajournal.com/news/article/louisianas_public_defender_system_is_understaffed_by_about_1400_lawyers_aba/ 
 * <a name="myfootnote29">29</a>: Debra Black: South Bend Tribune, Jan 9, 2017, "Questions surround Indiana's prison health care contract", http://m.southbendtribune.com/news/local/questions-surround-indiana-s-prison-health-care-contract/article_fe7dd411-47b8-5546-a46b-04c56549b10f.html (reduced money allocated to health care to save costs)
-* <a name="myfootnote30">30</a>: Nicholas Kristof: "Mothers in Prison", New York Times, November 25, 2016 https://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html
-* <a name="myfootnote31">31</a>: Matt Ford, The Atlantic, December 16, 2016, A Blueprint to End Mass Incarceration, https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749/?utm_source=twb 
+* <a name="myfootnote30">30</a>: Julia Zorthian: "Justice Department will Stop the Use of Private Prisons", Time Magazine, August 18, 2016 http://time.com/4457597/private-prisons-justice-department/ 
+* <a name="myfootnote31">31</a>: Whitney Benns: "American Slavery, Reinvented", The Atlantic, September 21, 2015 https://www.theatlantic.com/business/archive/2015/09/prison-labor-in-america/406177/ 
+* <a name="myfootnote32">32</a>: Caroline Winter: "What Do Prisoners's Make for Victoria's Secret?", Mother Jones, July/August 2008 Issue http://www.motherjones.com/politics/2008/07/what-do-prisoners-make-victorias-secret  
+* <a name="myfootnote35">35</a>: Nicholas Kristof: "Mothers in Prison", New York Times, November 25, 2016 https://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html
+* <a name="myfootnote36">36</a>: Matt Ford, The Atlantic, December 16, 2016, A Blueprint to End Mass Incarceration, https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749/?utm_source=twb 
