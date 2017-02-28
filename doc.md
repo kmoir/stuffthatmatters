@@ -7,25 +7,24 @@
 
 *In Canada, the Indigenous incarceration rate is 10 times higher than the non-Indigenous population--higher even than South Africa at the height of Apartheid.* <sup>[2](#myfootnote2)</sup>
  
-* todo - perhaps should mention the history of mass incarceration and how it has shifted from social justice to punishment
-* todo - need some personal stories of people that have been incarcerated along with the facts and numbers
-* todo - maybe I should mention "Thinking in Systems", inputs are poverty, incarceration, lost income, disenfranchisement.  Impact of police forces having equipment funded by high number of drug seizures.
+* todo fix overall verb tense
+* todo - need some personal stories of people that have been incarcerated along with current numbers for 
+1) % spent on rehabilitation vs other costs
+2) total prison pop - by gender, racial identity
+3) % suffering from mental illness
+4) % in for drug offences, especially possession
+5) education level
+6) homelessness
 
 * todo - should write intro last
 
-For many people, the police are seen as a force for good and serve in their role to protect their communities from harm.   Despite having comparable rates of illegal drug use, people of colour people are charged and incarcerated for drug offenses at a much higher rate than white people.  The impact of these communities are devastating. Higher incarceration rates mean parents aren''t able to work to support their families.  (mention associated reduction in tax revenues that impact schools?)  Many states prevent those with felony records from voting, which disenfranchises swatches of the population from exercising their democratic right to cast a ballot.  It also prevents them from serving on juries or electing officials in their communities who will pursue criminal justice reform, thus continuing the cycle of poverty, incarceration, lost income and again disenfranchisement. 
+For many people, the police are seen as a force for good and serve in their role to protect their communities from harm.   However, despite having comparable rates of illegal drug use, people of colour are charged and incarcerated for drug offenses at a much higher rate than whites.  The impact of these communities are devastating. Higher incarceration rates mean parents aren''t able to work to support their families or visit them regularly.   Many states prevent those with felony records from voting, which disenfranchises swatches of the population from exercising their democratic right to cast a ballot.  It also prevents them from serving on juries or electing officials in their communities who will pursue criminal justice reform, thus continuing the cycle of poverty, incarceration, lost income and again disenfranchisement. 
 
-With signing of the Civil Rights Act of 1964 in the United States, discrimination based on race, colour, religion, sex or national origin was outlawed.  <sup>[3](#myfootnote3)</sup> It ended racially segregated schools and different voter registration requirements based on skin colour.  In theory.  In practice, discrimination continued to flourish, especially in the criminal justice system.  If you could not legally discriminate against people based on race, but you can still discriminate against them based on their felony status.  Felons can be legally denied applications for housing, voting rights, educational opportunties, public benefits such as food stamps or the ability to apply for a job. Many employers refuse to hire those with a felony record, and there is not legal recourse for this type of discrimation (citation needed) 
+With signing of the Civil Rights Act of 1964 in the United States, discrimination based on race, colour, religion, sex or national origin was outlawed.  <sup>[3](#myfootnote3)</sup> It ended racially segregated schools and different voter registration requirements based on skin colour.  In theory.  In practice, discrimination continued to flourish, especially in the criminal justice system.  If you could not legally discriminate against people based on race, but you can still discriminate against them based on their felony status.  People with felony convictions can be legally denied applications for housing, voting rights, educational opportunties, public benefits such as food stamps or the ability to apply for a job.  
 
 * ..I came to see that mass incarceration in the United States, had in fact, emerged as a stunningly comprehensive and well-disguised system of racialized social control that functions in a manner similar to Jim Crow* <sup>[4](#myfootnote4)</sup>
 
 In American culture, it is a common refrain that anyone can become financially sucessful if they work hard.  But if your communities and families have their economic, educational and voting opportunities curtailed by mass incarceration, these opportunties for advancement simply do not exist. 
-
-* move this to summary
-Some state legislatures have recently reduced sentences for drug offences. This is not due to concern for the people impacted by these harsh drug laws, but rather an attempt to reduce the large scale prison costs associated with incarerating so many people. The impact of reduced sentences does little to improve the prospects of the people who return to their communities after being incarcerated as they still have a felony conviction on their record which allows housing and employment discrimination, and an inability to vote for the remainder of their lives. 
-<sup>[5](#myfootnote5)</sup>
-
-*History of the shift from social welfare to punitive intervention (started with Johnson)
 
 *When Johnson introduced a comprehensive anti-poverty program in low-income urban communities for the first time while simultaneously launching an anticrime intervention, the balance tilted from social welfare to punishment as the national law enforcement program crowded out the goals of the poverty war.*<sup>[3](#myfootnote3)</sup>
 
@@ -37,7 +36,7 @@ The number of people incarcerated for drug offenses has risen an astonishing amo
 The Fourth Amendment of the United States Constitution protects against unreasonable search and seizure.  However, this has been ignored by the courts when it comes to unreasonable searches of people for drugs.  In addition, police officers use "pretext stops". For example, stopping a car for a minor driving infraction such as a broken taillight or failing to signal when turning could be used a pretext stop.  Once the driver is stopped by the police officer, the car and its occupants are searched for drugs.  The search proceeds despite the fact that the police officers have no existing evidence that the motorist may be in posession of any illegal drugs.  The pretext stops have been held up by the Supreme Court - the police are free to stop a person for a traffic violation and then search for drugs, even though they have no existing evidence of drug related activity.  <sup>[8](#myfootnote8)</sup>  This has been a long standing approach by law enforcement.  In fact, in 1984 as part of the rollout of the War on Drugs, the DEA launched a training program called Operation Pipeline to coach officers on how to employ this method.
 <sup>[9](#myfootnote9)</sup> 
 
-At the beginning of the War on Drugs, drug use was actually declining. So police officers needed a motivation to start to arrest people for drug offences versus offences against property or person.  At the time, there was not widespread agreement that the drug offences should be the top priority among state and local enforcement.  This incentive to change their position was additional federal funding.  In 1988, the Reagan administration revised the program that provided federal aid, calling it the Byrn program.  The funding was designed to help encourage recipients to fight the War on Drugs, including building more narcotics task forces, including those that stop people on the highway with the same pretext stops mentioned above.  The additional funding also allowed local police forces to buy military grade hardware to patrol their streets.  The police forces need a reason to use this new shiny hardware, and thus the prevalence of SWAT (Special Weapons and Tactics) raids for drug offences became myore common.  SWAT teams inflict sudden, unannounced and forced entries into a residence.  It is teriffying for the residents within.  SWAT raids have resulted in a number of innocent bystanders being killed, as well as those who have had no-involvement in the drug trade, but were the result of mistaken identity or the wrong address for a raid. 
+When the War on Drugs began, drug use was actually declining. Police officers needed a motivation to start to arrest people for drug offences versus offences against property or person.  At the time, there was not widespread agreement that the drug offences should be the top priority among state and local enforcement.  This incentive to change their position was additional federal funding.  In 1988, the Reagan administration revised the program that provided federal aid, calling it the Byrn program.  The funding was designed to help encourage recipients to fight the War on Drugs, including building more narcotics task forces, including those that stop people on the highway with the same pretext stops mentioned above.  The additional funding also allowed local police forces to buy military grade hardware to patrol their streets.  The police forces need a reason to use this new shiny hardware, and thus the prevalence of SWAT (Special Weapons and Tactics) raids for drug offences became myore common.  SWAT teams inflict sudden, unannounced and forced entries into a residence.  It is teriffying for the residents within.  SWAT raids have resulted in a number of innocent bystanders being killed, as well as those who have had no-involvement in the drug trade, but were the result of mistaken identity or the wrong address for a raid. 
 <sup>[10](#myfootnote10)</sup> 
 
 In addition to the additional federal funding for equipment for SWAT teams, and training for using traffic stops as a pretext to search a vehicle for drugs, the Reagan administration introduced a new financial incentive to the War on Drugs: Forfeiture.  Police departs could keep the vast majority of cash and assets that were seized during drug operations. This allowed them to further expand the number of officers they could hire and the equipment they could buy. Larger police departments with more equipment allowed them to stop more people and check their vehicles for drugs.  There was also very little recourse for those who had their assets seized.  The probable cause was very low for the police to prove that the assets were indeed related to a drug crime. It was up to the people who had their assets seized to prove their innocence.  The people who had assets seized often had limited income and thus didn''t have the means to pay a lawyer''s fees to attempt to get their property returned in court.  Those who did have the income available to hire counsel could, including those higher up in the drug distribution chain, were less likely to earn sentences because they had the means to hire representation.  The end result was that people who were charged with possession, or small amounts for trafficing were more likely to haver longer prison sentences than those with the means to pay a lawyer.  
@@ -80,56 +79,56 @@ To cope with the growth in prison populations due to the War on Drugs, the feder
 *The tort claim describes several instances in which guards and some medical staff insisted Smith be sent to a hospital but were overruled by a doctor — for a common condition that “is also easy to diagnose if the proper steps are taken.”*
 <sup>[29](#myfootnote29)</sup> 
 
-Per profit prisons need more and more prisons to be built to keep their profits growing.  These corporations profits depend on more arrests, and longer sentences upon conviction to keep their business to grow.  Also, with their primary incentive is their own profit, not reducing the recidisvism rate through educational or vocational traiing programs.  They are optimized to sweep as much profit from taxpapers for their services, while there are few incentives to improve the living conditions of prisoners, or to reduce the chance they will return to prison.
+Per profit prisons need more and more prisons to be built to allow their profits to grow.  These corporations profits depend on more arrests, and longer sentences upon conviction to keep their business to grow.  Also, with their primary incentive is their own profit, not reducing the recidisvism rate through educational or vocational traiing programs.  They are optimized to sweep as much profit from taxpapers for their services, while there are few incentives to improve the living conditions of prisoners, or to reduce the chance they will return to prison.
 
 In August 2016, Deputy Attorney Sally Yates released a memo indicating that the US Justice department would stop using private prisons due to reports that they do not have the same level of safety or quality as those run by the Bureau of Corrections.  The aim was to let contracts with private prisons run their course and not be renewed.  Unfortunately, this directive was rescinded byt the subsequent adminstration so the health and living conditions of prisoners in private prisons will continue to be substandard substandard to that offered by the Bureau of Corrections.
 <sup>[30](#myfootnote30)</sup> 
-
 
 The Thirteenth Amendment to the United States Constitution abolished slavery and involuntary servitude.  There is one exception - as punishment for a crime.  The result of this is that prisoners can be forced to work, and paid nothing, or a few pennies an hour.   
 
 *More than a century later, our prison labor system has only grown. We now incarcerate more than 2.2 million people, with the largest prison population in the world, and the second highest incarceration rate per capita. Our prison populations remain racially skewed. With few exceptions, inmates are required to work if cleared by medical professionals at the prison. Punishments for refusing to do so include solitary confinement, loss of earned good time, and revocation of family visitation. For this forced labor, prisoners earn pennies per hour, if anything at all.*
 <sup>[31](#myfootnote31)</sup> 
 
-Companies that have used prison labour include Victoria''s Secret to sew underwear, mining industries, manufacturing including manufacturing military weapons.  In addition, some call centres are staffed by prisoners.  The tech industry has also been implicated in using prison labour:
+Companies that have used prison labour include Victoria''s Secret to sew underwear, mining industries, manufacturing including manufacturing military weapons.  In addition, some call centres are staffed by prisoners.  Not only are their wages unfair, they are not protected by labour codes that protect workers on the outside.  Their labour is outsourced to many companies who reap handome profits from slave wages.  The tech industry has also been implicated in using prison labour:
 
 *In the mid-1990s, Washington prisoners shrink-wrapped software and up to 20,000 Microsoft mouses for subcontractor Exmark (other reported clients: Costco and JanSport). "We don''t see this as a negative," a Microsoft spokesman said at the time. Dell used federal prisoners for PC recycling in 2003, but stopped after a watchdog group warned that it might expose inmates to toxins.*
 <sup>[32](#myfootnote32)</sup> 
 
-Not only are their wages unfair, they are not protected by labour codes that protect workers on the outside.  Their labour is outsourced to many companies who reap handome profits from slave wages.*
-
-
-p 143
-upon leaving prison, the person may not be be able to vote for a certain period of time or forever, be unable to qualify for some types of employment, public housing, federally funded health benefits, food stamps, educational benefits.  Judges are not under obligation to inform people that they will lose these rights when they plead out to a felony.  Once they leave the prison, they will need a place to stay.  One of the tenants of HUD (Housing and Urban Development) One Strike guide is that if you have any convictions for any crimes, you can be denied housing.  This also applies to people who stay with you in public housing.  So often people are reluctant to let relatives stay with them after they have recently left prison to mitigate the chance that they will lose their housing.  If you are charged with a minor drug crime, you can lose your housing, which may lead you to lose custody of your children to foster care because you are homeless.  ""A study conducted by the McCormick Institute of Public Affairs found that nearly a quarter of gues at homeless shelters had been incarcerated within the previous year--people who were unable to find somewhere else to live after release from prison walls""p147
+The situation after people have completed their prison sentences is desperately lacking support for a successful transition to the outside world.  Upon leaving prison, a person with a felony conviction may not be be able to vote for a certain period of time or forever. This inability to vote has been held up by the Supreme court as not violating the 14th amendment.<sup>[33](#myfootnote33)</sup> In addition, they are often unable to qualify for many types of employment, public housing, federally funded health benefits, food stamps and educational benefits.  Judges are not under obligation to inform people that they will lose these rights when they plead out to a felony.  Once they leave the prison, they will need a place to stay.  One of the tenants of HUD (Housing and Urban Development) One Strike guide is that if you have any convictions for any crimes, you can be denied housing.  This also applies to people who stay with you in public housing.  So often people are reluctant to let relatives stay with them after they have recently left prison to mitigate the chance that they will lose their housing.  If you are charged with a minor drug crime, you can lose your housing, which may lead you to lose custody of your children to foster care because you are homeless. Due to all of these factors, the number of people who are homeless after leaving prison are very high. The rate of homelessness is especially acute for those people who are mentally ill. Prohibited from public health care due to laws restricting felons from registering for it, many are unable to continue the medications they need to manage their mental health issues, which further increases the probability that they will become homeless and unemployed.    
+p143
  
- 
-
-
-
 
 Summary:
 
 Mass Incareration marginalizes predomininately black, Latinx and Indigeneous people from participating fully in society.  
 
-To further exacerbate the issues of representation in court, some juridictions don''t have enough public defender lawyers to support those who need these services.  
-<sup>[20](#myfootnote20)</sup> (this info is from a much later date than 1980s, perhaps would be good for summary)
+To further exacerbate the issues of representation in court, some juridictions don''t have enough public defender lawyers to support those who need these services. For instance, the state if Louisiana is understaffed by about 1,400 lawyers, according to the American Bar Association. 
+<sup>[20](#myfootnote20)</sup> 
 
-Richardson v. Ramirez, 418 U.S. 24 (1974), held that convicted felons could be barred from voting without violating the Fourteenth Amendment.
-https://en.wikipedia.org/wiki/Richardson_v._Ramirez
+Some state legislatures have recently reduced sentences for drug offences. This is not due to concern for the people impacted by these harsh drug laws, but rather an attempt to reduce the large scale prison costs associated with incarerating so many people. The impact of reduced sentences does little to improve the prospects of the people who return to their communities after being incarcerated as they still have a felony conviction on their record which allows housing and employment discrimination, and an inability to vote for the remainder of their lives. 
+<sup>[5](#myfootnote5)</sup>
+
+*History of the shift from social welfare to punitive intervention (started with Johnson)
 
 
 Alantic article on ending Mass Incarceration
 
 Further steps
 
-Example from Norway with low recidisvism rates, treats drug addiction as a public health issue in terms of harm reduction
+What countries serve as a model for a more humane system of incarceration?  Norway stands out as a notable example. Norway is a small country, but it''s approach to prisoners has been offered as a model to reduce recidisdism. For example, there is a prison called Bastoy prison island where prisoners apply to serve in they have five years or less of their sentence to serve.  The men live in houses, six to a house, where they share cooking and cleaning responsibilities. They are able to help with farm duties, and go swimming or fishing in their free time.  They are offered educational and vocational training, so that they may have a better chance of sucess when they are able to rejoin the outside world. Governor Arne Nielsen describes the prison:
+
+*"In closed prisons we keep them locked up for some years and then let them back out, not having had any real responsibility for working or cooking. In the law, being sent to prison is nothing to do with putting you in a terrible prison to make you suffer. The punishment is that you lose your freedom. If we treat people like animals when they are in prison they are likely to behave like animals. Here we pay attention to you as human beings."*<sup>[36](#myfootnote36)</sup>
+
+Example from Norway with low recidisvism rates, treats drug addiction as a public health issue in terms of harm reduction.  
 https://www.theguardian.com/society/2013/feb/25/norwegian-prison-inmates-treated-like-people
+
+My background is in managing large distributed systems.  From this perspective, I always think "what are we optimizing this system for?". In the case of mass incarceration and the prison industrial complex, we are optimizing to shut disproportionality large numbers of people of people behind bars, with few rights or supports to allow them to succeed after release, all while large corporations prprofit from cheap labour and increasing numbers of private prisons.   
 
 ## Footnotes
 
 * <a name="myfootnote1">1</a>: https://www.splcenter.org/issues/mass-incarceration (Southern Poverty Law Centre) 
 * <a name="myfootnote2">2</a>: http://www.macleans.ca/news/canada/canadas-prisons-are-the-new-residential-schools/ (Investigation why the Canadian Justice system is biased against indigeneous people) 
-* <a name="myfootnote3">3</a>: https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964 
+* <a name="myfootnote3">3</a>: https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964 https://en.wikipedia.org/wiki/Richardson_v._Ramirez
 * <a name="myfootnote4">4</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colourblindess, page 4
 * <a name="myfootnote5">5</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colourblindess, page 14
 * <a name="myfootnote6">6</a>: Elizabeth Hinton, From the War on Poverty to the War on Crime: The Making of Mass Incareration in America, page 14
@@ -146,5 +145,8 @@ https://www.theguardian.com/society/2013/feb/25/norwegian-prison-inmates-treated
 * <a name="myfootnote30">30</a>: Julia Zorthian: "Justice Department will Stop the Use of Private Prisons", Time Magazine, August 18, 2016 http://time.com/4457597/private-prisons-justice-department/ 
 * <a name="myfootnote31">31</a>: Whitney Benns: "American Slavery, Reinvented", The Atlantic, September 21, 2015 https://www.theatlantic.com/business/archive/2015/09/prison-labor-in-america/406177/ 
 * <a name="myfootnote32">32</a>: Caroline Winter: "What Do Prisoners's Make for Victoria's Secret?", Mother Jones, July/August 2008 Issue http://www.motherjones.com/politics/2008/07/what-do-prisoners-make-victorias-secret
+* <a name="myfootnote33">33</a>: Richardson v. Ramirez, 418 U.S. 24 (1974), held that convicted felons could be barred from voting without violating the Fourteenth Amendment.
+* <a name="myfootnote3">34</a>: Erwin James, "The Norwegian prison where inmates are treated like people", The Guardian, February 25 2013,https://www.theguardian.com/society/2013/feb/25/norwegian-prison-inmates-treated-like-people
+
 * <a name="myfootnote35">35</a>: Nicholas Kristof: "Mothers in Prison", New York Times, November 25, 2016 https://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html
 * <a name="myfootnote36">36</a>: Matt Ford, The Atlantic, December 16, 2016, A Blueprint to End Mass Incarceration, https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749/?utm_source=twb
