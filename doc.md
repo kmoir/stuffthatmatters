@@ -5,8 +5,6 @@
 
 *It’s a system marred by vast racial disparities – one that stigmatizes and targets young black men for arrest at a young age, unfairly punishes communities of color, burdens taxpayers and exacts a tremendous social cost. Today, African-American men who failed to finish high school are more likely to be behind bars than employed.* <sup>[1](#myfootnote1)</sup>
 
-*In Canada, the Indigenous incarceration rate is 10 times higher than the non-Indigenous population--higher even than South Africa at the height of Apartheid.* <sup>[2](#myfootnote2)</sup>
- 
 * todo fix overall verb tense
 * todo - need some personal stories of people that have been incarcerated along with current numbers for 
 1) % spent on rehabilitation vs other costs
@@ -67,6 +65,9 @@ p 133 racial profiling in policing  as well as whites more likely to carry contr
 
 To recap, pretext stops allowed police officers to stop individuals for a minor traffic infraction as a pretext stop.  Once the vehicle was stopped, they were allowed to search the car for drugs, despite lacking any evidence that there were any drugs in the car.  The Supreme Court upheld that this was not a violation of the Fourth Amendment to unreasonable search and seizure.  More federal funding for additonal state and local police officers and military grade equipment to fight the War on Drugs led to an increase in drug arrests.  As well, forfeiture of the assets of people charged with drug posession or distribtion provided a strong incentive to continue to increase their drug arrests.  The result was an large increase in the number of people charged with drug crimes. Many were indigent, and did not have the means to pay for counsel.  The caseload for public defenders is high, they are poorly compensated and many provide inadequate representation for their clients.  The end result is many more people in prison.
 
+
+## For Profit Prisons
+
 To cope with the growth in prison populations due to the War on Drugs, the federal government outsourced the operation of some prisons to private companies, such as Corrections Corporation of America, now called CoreCivic.  The shift to private prisons shifted the goal to lower prison costs as much as possible, to generate the highest profits possible for shareholders and company executives. Contracts for private prisons are negotiated on a per-diem basis, with a set cost per day per prisoner for healthcare, food and accommodations.  There have been several cases that have come to light where prisoners have received the health care they need, because these private prisons are unwilling to pay for required health care. For instance, the unsurprising outcome was that care for prisoners was reduced in private prisons, with devastating results.  For instance, the South Bend Tribune describes the case of a tort claim filed by civil rights attorney Micheal Sutherland against the Indiana Women''s prison: 
 
 *The prisoner, Tiffany Smith, described in a letter the events that began with excruciating pain, nausea, and a large knot that emerged on the right side of her abdomen, where her skin had turned black. The 35-year-old said even guards remarked on the lack of medical response to what turned out to be a ruptured appendix.*  
@@ -90,14 +91,32 @@ The Thirteenth Amendment to the United States Constitution abolished slavery and
 
 Companies that have used prison labour include Victoria''s Secret to sew underwear, mining industries and manufacturing.  In addition, some call centres are staffed by prisoners.  Not only are their wages unfair, they are not protected by labour codes that protect workers on the outside.  Their labour is outsourced to many companies who reap handome profits from slave wages.  The tech industry has also been implicated in using prison labour:
 
-*In the mid-1990s, Washington prisoners shrink-wrapped software and up to 20,000 Microsoft mouses for subcontractor Exmark (other reported clients: Costco and JanSport). "We don''t see this as a negative," a Microsoft spokesman said at the time. Dell used federal prisoners for PC recycling in 2003, but stopped after a watchdog group warned that it might expose inmates to toxins.*
-<sup>[32](#myfootnote32)</sup> 
+*In the mid-1990s, Washington prisoners shrink-wrapped software and up to 20,000 Microsoft mouses for subcontractor Exmark (other reported clients: Costco and JanSport). "We don''t see this as a negative," a Microsoft spokesman said at the time. Dell used federal prisoners for PC recycling in 2003, but stopped after a watchdog group warned that it might expose inmates to toxins.*<sup>[32](#myfootnote32)</sup> 
 
-After their sentences are complete, support is desperately lacking for a successful transition to the outside world.  Upon leaving prison, a person with a felony conviction may not be be able to vote for a certain period of time or forever. This inability to vote has been held up by the Supreme court as not violating the 14th amendment.<sup>[33](#myfootnote33)</sup> In addition, they are often unable to qualify for many types of employment, public housing, federally funded health benefits, food stamps and educational benefits.  Judges are not under obligation to inform people that they will lose these rights when they plead out to a felony.  Once they leave the prison, they will need a place to stay.  One of the tenants of HUD (Housing and Urban Development) One Strike guide is that if you have any convictions for any crimes, you can be denied housing.  This also applies to people who stay with you in public housing.  So often people are reluctant to let relatives stay with them after they have recently left prison to mitigate the chance that they will lose their housing.  If you are charged with a minor drug crime, you can lose your housing, which may lead you to lose custody of your children to foster care because you are homeless. Due to all of these factors, the number of people who are homeless after leaving prison are very high. The rate of homelessness is especially acute for those people who are mentally ill. Prohibited from public health care due to laws restricting felons from registering for it, many are unable to continue the medications they need to manage their mental health issues, which further increases the probability that they will become homeless and unemployed.    
+
+##Mothers in Prison
+
+The incarceration rate for women in the United States is 127 per 100,000 people, second only to Thailand on a global basis. As a comparison,  its nothern neighbour Canada incarerates 11 per 100,000.  <sup>[35](#myfootnote35)</sup> 
+
+*The global capital for female incarceration may be right here in Oklahoma, which incarcerates 142 out of every 100,000 women, about 10 times the rate of low-ranking states like Rhode Island and Massachusetts. I wouldn’t argue that mass female incarceration is worse than mass male incarceration — they’re both counterproductive — but the imprisonment of women has heartbreaking collateral damage, because women are disproportionately likely to be primary caregivers, and 60 percent of American women in state prisons have children under 18.*
+
+*“There’s a devastating impact on the children,” said Amy Santee of the George Kaiser Family Foundation, which supports an alternative to imprisonment for women. “They’re put in chaotic homes, they’re more likely to be sexually abused, they’re more likely to be imprisoned themselves.”* 
+
+*Mass incarceration also has an abysmal record. Recidivism is high, and imprisonment breaks up and impoverishes families. A newly published study from the Russell Sage Foundation found that incarceration of a family member is associated with a 64 percent decline in household assets, magnifying poverty and the race gap in America. And the 2.6 million American children who have a parent in prison or jail pay an enormous price.*
+<sup>[36](#myfootnote36)</sup> 
+
+The central reason for a woman to be incarcerated in America is drug abuse.  Until drug addiction is treated as a public health issue, and not a moral failing worthy of long prison sentences, families will continue to have their bonds strained by separation and economically devastated by having a parent in prison.
+
+##After Prison
+
+After their sentences are complete, support is desperately lacking for a successful transition to the outside world.  Upon leaving prison, a person with a felony conviction may not be be able to vote for a certain period of time or forever. This inability to vote has been held up by the Supreme court as not violating the 14th amendment.<sup>[33](#myfootnote33)</sup> In addition, they are often unable to qualify for many types of employment, public housing, federally funded health benefits, food stamps and educational benefits.  Judges are not under obligation to inform people that they will lose these rights when they plead out to a felony.  Once they leave the prison, they will need a place to stay.  One of the tenants of HUD (Housing and Urban Development) One Strike guide is that if you have any convictions for any crimes, you can be denied housing.  This also applies to people who stay with you in public housing.  So often people are reluctant to let relatives stay with them after they have recently left prison to mitigate the chance that they will lose their housing.  If you are charged with a minor drug crime, you can lose your housing, which may lead you to lose custody of your children to foster care because you are homeless. 
+
+Due to all of these factors, the number of people who are homeless after leaving prison are very high. The rate of homelessness is especially acute for those people who are mentally ill. Prohibited from public health care due to laws restricting felons from registering for it, many are unable to continue the medications they need to manage their mental health issues, which further increases the probability that they will become homeless and unemployed.    
 p143
+
  
 
-Summary:
+##Conclusion
 
 Mass Incareration marginalizes predomininately black, Latinx and Indigeneous people from participating fully in society.  
 
@@ -112,14 +131,17 @@ Some state legislatures have recently reduced sentences for drug offences. This 
 
 Alantic article on ending Mass Incarceration
 
-Further steps
+##Better implementations, better outcomes
 
 What countries serve as a model for a more humane system of incarceration?  Norway stands out as a notable example. Norway is a small country, but it''s approach to prisoners has been offered as a model to reduce recidisdism. For example, there is a prison called Bastoy prison island where prisoners apply to serve in they have five years or less of their sentence to serve.  The men live in houses, six to a house, where they share cooking and cleaning responsibilities. They are able to help with farm duties, and go swimming or fishing in their free time.  They are offered educational and vocational training, so that they may have a better chance of sucess when they are able to rejoin the outside world. Governor Arne Nielsen describes the prison:
 
-*"In closed prisons we keep them locked up for some years and then let them back out, not having had any real responsibility for working or cooking. In the law, being sent to prison is nothing to do with putting you in a terrible prison to make you suffer. The punishment is that you lose your freedom. If we treat people like animals when they are in prison they are likely to behave like animals. Here we pay attention to you as human beings."*<sup>[36](#myfootnote36)</sup>
+*"In closed prisons we keep them locked up for some years and then let them back out, not having had any real responsibility for working or cooking. In the law, being sent to prison is nothing to do with putting you in a terrible prison to make you suffer. The punishment is that you lose your freedom. If we treat people like animals when they are in prison they are likely to behave like animals. Here we pay attention to you as human beings."*<sup>[36](#myfootnote40)</sup>
 
 Example from Norway with low recidisvism rates, treats drug addiction as a public health issue in terms of harm reduction.  
 https://www.theguardian.com/society/2013/feb/25/norwegian-prison-inmates-treated-like-people
+
+better outcomes for two generations of women
+https://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html
 
 My background is in managing large distributed systems.  From this perspective, I always think "what are we optimizing this system for?". In the case of mass incarceration and the prison industrial complex, we are optimizing to shut disproportionality large numbers of people of people behind bars, with few rights or supports to allow them to succeed after release, all while large corporations prprofit from cheap labour and increasing numbers of private prisons.   
 
@@ -145,7 +167,8 @@ My background is in managing large distributed systems.  From this perspective, 
 * <a name="myfootnote31">31</a>: Whitney Benns: "American Slavery, Reinvented", The Atlantic, September 21, 2015 https://www.theatlantic.com/business/archive/2015/09/prison-labor-in-america/406177/ 
 * <a name="myfootnote32">32</a>: Caroline Winter: "What Do Prisoners's Make for Victoria's Secret?", Mother Jones, July/August 2008 Issue http://www.motherjones.com/politics/2008/07/what-do-prisoners-make-victorias-secret
 * <a name="myfootnote33">33</a>: Richardson v. Ramirez, 418 U.S. 24 (1974), held that convicted felons could be barred from voting without violating the Fourteenth Amendment.
-* <a name="myfootnote3">34</a>: Erwin James, "The Norwegian prison where inmates are treated like people", The Guardian, February 25 2013,https://www.theguardian.com/society/2013/feb/25/norwegian-prison-inmates-treated-like-people
 
-* <a name="myfootnote35">35</a>: Nicholas Kristof: "Mothers in Prison", New York Times, November 25, 2016 https://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html
-* <a name="myfootnote36">36</a>: Matt Ford, The Atlantic, December 16, 2016, A Blueprint to End Mass Incarceration, https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749/?utm_source=twb
+* <a name="myfootnote35">35</a>: Aleks Kajstura and Russ Immarigeon: "States of Women's Incarceration: The Global Context", Prison Policy Institute https://www.prisonpolicy.org/global/women/ 
+* <a name="myfootnote36">36</a>: Nicholas Kristof: "Mothers in Prison", New York Times, November 25, 2016 https://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html
+* <a name="myfootnote40">40</a>: Erwin James, "The Norwegian prison where inmates are treated like people", The Guardian, February 25 2013,https://www.theguardian.com/society/2013/feb/25/norwegian-prison-inmates-treated-like-people
+* <a name="myfootnote41">41</a>: Matt Ford, The Atlantic, December 16, 2016, A Blueprint to End Mass Incarceration, https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749/?utm_source=twb
