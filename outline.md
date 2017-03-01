@@ -43,6 +43,7 @@ This is a brief outline of the topics I intend to cover.  I have done quite a bi
 * criminal justice reform
 * drug addiction in many cases is treated as a moral failure that requires a prison sentence when instead it should be treated as a public health issue. Implementation of policies for harm reduction for people with substance abuse issues vs imprisonment have better outcomes
 * statistics on the profile prisoners - i.e. it''s not a violent offender, it''s likely a person who has mental health and/or addiction issues (See reference (10)
+* Treatment of LGBTQ people within prison system
 
 Topics that perhaps are relevant
 * Welfare reform under Clinton (put time limits on people receiving benefits, hurt mostly single mothers, vilified single mothers on welfare, the reality was low wage jobs that didn''t provide health care made it very difficult to survive)
