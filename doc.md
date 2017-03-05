@@ -1,8 +1,6 @@
 # Mass Incarceration and the Prison-Industrial Complex
 
 
-## Introduction
-
 *It’s a system marred by vast racial disparities – one that stigmatizes and targets young black men for arrest at a young age, unfairly punishes communities of color, burdens taxpayers and exacts a tremendous social cost. Today, African-American men who failed to finish high school are more likely to be behind bars than employed.* <sup>[1](#myfootnote1)</sup>
 
 * todo fix overall verb tense
@@ -16,7 +14,7 @@
 
 * todo - should write intro last
 
-For many people, the police are seen as a force for good and serve in their role to protect their communities from harm.   However, despite having comparable rates of illegal drug use, people of colour are charged and incarcerated for drug offenses at a much higher rate than whites.  The impact of these communities are devastating. Higher incarceration rates mean parents aren''t able to work to support their families or visit them regularly.   Many states prevent those with felony records from voting, which disenfranchises swatches of the population from exercising their democratic right to cast a ballot.  It also prevents them from serving on juries or electing officials in their communities who will pursue criminal justice reform, thus continuing the cycle of poverty, incarceration, lost income and again disenfranchisement. 
+For many people, the police are seen as a force for good and serve in their role to protect their communities from harm.   However, despite having comparable rates of illegal drug use, people of colour are charged and incarcerated for drug offenses at a much higher rate than whites.  The impact of these communities are devastating. Higher incarceration rates mean parents aren&quot;t able to work to support their families or visit them regularly.   Many states prevent those with felony records from voting, which disenfranchises swatches of the population from exercising their democratic right to cast a ballot.  It also prevents them from serving on juries or electing officials in their communities who will pursue criminal justice reform, thus continuing the cycle of poverty, incarceration, lost income and again disenfranchisement. 
 
 With signing of the Civil Rights Act of 1964 in the United States, discrimination based on race, colour, religion, sex or national origin was outlawed.  <sup>[3](#myfootnote3)</sup> It ended racially segregated schools and different voter registration requirements based on skin colour.  In theory.  In practice, discrimination continued to flourish, especially in the criminal justice system.  If you could not legally discriminate against people based on race, but you can still discriminate against them based on their felony status.  People with felony convictions can be legally denied applications for housing, voting rights, educational opportunties, public benefits such as food stamps or the ability to apply for a job.  
 
