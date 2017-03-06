@@ -11,13 +11,13 @@
 * todo - should include history of  Clinton (welfare changes)?, Crime Omnibus bill, GWB and Patriot Act, Obama and extending Byrn program
 * todo - mention mass incareration for detained immigrants?
 * todo - rework intro and conclusion
+* todo -  refer to Alantic article on ending Mass Incarceration in conclusion https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749/?utm_source=twb
 * todo - removed references to Canada and mass incarceration of indigenous people due to lack of space, perhaps this should be included
 * todo: should mention fines on people as a way to bolster city revenues i.e. Ferguson?
 * todo - impact of survellance by state
 * todo - Alec - corporations paid to influence legislation
 * to do p 133 racial profiling in policing  as well as whites more likely to carry contraband in cars (Jim Crow book)
 * to do - cut down length - too long, perhaps summarize history better
-* todo -  refer to Alantic article on ending Mass Incarceration in conclusion https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749/?utm_source=twb
 * todo - fix footnotes not in correct order
 
 # Mass Incarceration and the Prison-Industrial Complex
