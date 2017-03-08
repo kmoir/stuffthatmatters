@@ -11,13 +11,12 @@
 * todo - should include history of  Clinton (welfare changes)?, Crime Omnibus bill, GWB and Patriot Act, Obama and extending Byrn program
 * todo - mention mass incarceration for detained immigrants?
 * todo - rework intro and conclusion
-* todo -  refer to Alantic article on ending Mass Incarceration in conclusion https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749/?utm_source=twb
 * todo - removed references to Canada and mass incarceration of indigenous people due to lack of space, perhaps this should be included
 * todo: should mention fines on people as a way to bolster city revenues i.e. Ferguson?
 * todo - impact of surveillance by state
 * todo - Alec - corporations paid to influence legislation
-* to do -  p 133 racial profiling in policing  as well as whites more likely to carry contraband in cars (Jim Crow book)
-* to do - cut down length - too long, perhaps summarize history better
+* todo -  p 133 racial profiling in policing  as well as whites more likely to carry contraband in cars (Jim Crow book)
+* todo - cut down length - too long, perhaps summarize history better
 * todo - fix footnotes not in correct order
 * todo - police brutality associated with stop and frisk
 * todo - mention activists working for justice reform
@@ -27,6 +26,8 @@
 From the Southern Poverty Law Center:
 
 *It’s a system marred by vast racial disparities – one that stigmatizes and targets young black men for arrest at a young age, unfairly punishes communities of color, burdens taxpayers and exacts a tremendous social cost. Today, African-American men who failed to finish high school are more likely to be behind bars than employed.* <sup>[1](#myfootnote1)</sup>
+
+*Much of the debate surrounding mass incarceration is centered on its statistics: The United States has 5 percent of the world’s population and 25 percent of its prisoners; American prisons hold more inmates than Soviet gulags at their peak; a greater proportion of black Americans are imprisoned than black South Africans under apartheid.*<sup>[2](#myfootnote2)</sup>
 
 ##History
 
@@ -99,7 +100,7 @@ Companies that have used prison labour include mining industries, farming, call 
 
 ##Women in Prison
 
-The incarceration rate for women in the United States is 127 per 100,000 people, second only to Thailand on a global basis. As a comparison, its northern neighbour Canada incarcerates 11 per 100,000.  <sup>[35](#myfootnote35)</sup> 
+The incarceration rate for women in the United States is 127 per 100,000 people, second only to Thailand on a global basis. As a comparison, its northern neighbour Canada incarcerates 11 per 100,000.  <sup>[35](#myfootnote35)</sup> (This is not to say that Canada doesn''t have serious issues within it''s prison systems, for instance Indigenous people are overrepresented for reasons including racial profiling and stop and frisk.)<sup>[38](#myfootnote38)</sup>
 
 From a New York Times Report on Women in Prison:<sup>[30](#myfootnote30)</sup>
 
@@ -138,12 +139,14 @@ What countries serve as a model for a more humane system of incarceration?  Norw
 
 *"In closed prisons we keep them locked up for some years and then let them back out, not having had any real responsibility for working or cooking. In the law, being sent to prison is nothing to do with putting you in a terrible prison to make you suffer. The punishment is that you lose your freedom. If we treat people like animals when they are in prison they are likely to behave like animals. Here we pay attention to you as human beings."*<sup>[36](#myfootnote40)</sup>
 
+There have been also been changes in the Unites States that serve to reduce the cost and harm associated with mass incarceration.  In fact, a recent study from the Brennan Center states that 39% of America''s prison population or 576,000 people are "unnecessarily incarcerated".<sup>[2](#myfootnote2)</sup>  In other words, there is no public safety rationale for locking them up, and only increases the recidivism rate.  They give the example of South Carolina, which has reduced the mandatory minimums for some drug possession crimes, and instead given the offenders the option of community services, fees or fines or electronic monitoring. The result is that the recidivism rate in the state has gone down, and they have closed prisons.
 
 
-## Footnotes
+
+#e Footnotes
 
 * <a name="myfootnote1">1</a>: https://www.splcenter.org/issues/mass-incarceration (Southern Poverty Law Centre) 
-* <a name="myfootnote2">2</a>: http://www.macleans.ca/news/canada/canadas-prisons-are-the-new-residential-schools/ (Investigation why the Canadian Justice system is biased against indigeneous people) 
+* <a name="myfootnote2">2</a>: Matt Ford: "A Blueprint to End Mass Incarceration", The Atlantic, Dec 16, 2016, https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749
 * <a name="myfootnote3">3</a>: https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964 https://en.wikipedia.org/wiki/Richardson_v._Ramirez
 * <a name="myfootnote4">4</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colorblindness, page 4
 * <a name="myfootnote5">5</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colorblindness, page 14
@@ -166,6 +169,7 @@ What countries serve as a model for a more humane system of incarceration?  Norw
 * <a name="myfootnote35">35</a>: Aleks Kajstura and Russ Immarigeon: "States of Women's Incarceration: The Global Context", Prison Policy Institute https://www.prisonpolicy.org/global/women/ 
 * <a name="myfootnote36">36</a>: Nicholas Kristof: "Mothers in Prison", New York Times, November 25, 2016 https://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html
 * <a name="myfootnote37">11</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colorblindness, page 143
+<a name="myfootnote38">38</a>: http://www.macleans.ca/news/canada/canadas-prisons-are-the-new-residential-schools/ (Investigation why the Canadian Justice system is biased against indigeneous people) 
 * <a name="myfootnote40">40</a>: Erwin James, "The Norwegian prison where inmates are treated like people", The Guardian, February 25 2013,https://www.theguardian.com/society/2013/feb/25/norwegian-prison-inmates-treated-like-people
 * <a name="myfootnote41">41</a>: Matt Ford, The Atlantic, December 16, 2016, A Blueprint to End Mass Incarceration, https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749/?utm_source=twb
 * <a name="myfootnote42">42</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colorblindness, page 86-87
