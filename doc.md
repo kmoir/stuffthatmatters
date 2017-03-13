@@ -1,21 +1,24 @@
 
-* todo fix overall verb tense
+###Notes for reviewers
+Topics I included in original outline but omitted due to lack of space in draft:  (Let me know if I should include them)
+* references to Canada and mass incarceration of indigenous people. I removed this  due to lack of space but perhaps this should be included.
+* mass incarceration for detained immigrants?
+* fines on people as a way to bolster city revenues i.e. Ferguson?
+* state surveillance of communities of colour
+* ALEC - corporations pay to influence prison legislation
+* racial profiling in policing  as well as whites more likely to carry contraband in cars (p133 Jim Crow book)
 * to do current numbers for
+* police brutality associated with stop and frisk
+*  mention activists working for criminal justice reform
+* Many of my excerpts from books are from experts instead the people themselves that were incarcerated. Perhaps I should include more of their stories?
+Summarize at end?
 1) % spent on rehabilitation vs other costs
 2) total prison pop - by gender, racial identity
 3) % suffering from mental illness
 4) % in for drug offences, especially possession
 5) education level
 6) homelessness
-* todo - mention mass incarceration for detained immigrants?
-* todo - removed references to Canada and mass incarceration of indigenous people due to lack of space, perhaps this should be included
-* todo: should mention fines on people as a way to bolster city revenues i.e. Ferguson?
-* todo - impact of surveillance by state
-* todo - ALEC - corporations paid to influence legislation
-* todo -  p 133 racial profiling in policing  as well as whites more likely to carry contraband in cars (Jim Crow book)
-* todo - fix footnotes not in correct order
-* todo - police brutality associated with stop and frisk
-* todo - mention activists working for criminal justice reform
+* I need to fix footnotes - not currently in correct order
 
 # Mass Incarceration and the Prison-Industrial Complex
 
@@ -38,35 +41,31 @@ From the book "The New Jim Crow: Mass Incarceration in the Age of Colorblindness
 
 * ..I came to see that mass incarceration in the United States, had in fact, emerged as a stunningly comprehensive and well-disguised system of racialized social control that functions in a manner similar to Jim Crow* <sup>[4](#myfootnote4)</sup>
 
-In American culture, it is a common refrain that anyone can become financially successful if they work hard; however, if your communities and families have their economic, educational and voting opportunities curtailed by mass incarceration, these opportunities for advancement simply do not exist.
-
-*When (President) Johnson introduced a comprehensive anti-poverty program in low-income urban communities for the first time while simultaneously launching an anticrime intervention, the balance tilted from social welfare to punishment as the national law enforcement program crowded out the goals of the poverty war.*<sup>[3](#myfootnote3)</sup>
-
-The number of people incarcerated for drug offenses has skyrocketed since the War on Drugs began in earnest with the first term of the Reagan administration. Drug arrests have tripled since 1980;more than 31 million people have been incarcerated since the War on Drugs began.  <sup>[7](#myfootnote5)</sup>  The War on Drugs was marketed as a way reduce the number of high volume distributors; however, this is not the case and the vast majority of arrests have been for possession, not distribution.  The increased  number of prisoners has led to a corresponding increase in the number of prisons built.  Where did this begin?
+Richard Nixon coined the term "War on Drugs", however, the number of people incarcerated for drug offenses skyrocketed with the first term of the Reagan administration. Drug arrests have tripled since 1980;more than 31 million people have been incarcerated.<sup>[7](#myfootnote5)</sup>  The War on Drugs was marketed as a way reduce the number of high volume distributors; however, this is not the case and the vast majority of arrests have been for possession, not distribution.  The increased number of prisoners has led to a corresponding increase in the number of prisons built.  Where did this begin?
 
 The Fourth Amendment of the United States Constitution protects against unreasonable search and seizure; but this has been ignored by the courts when it comes to unreasonable searches for drugs.  Police officers often engage in pretext stops; that is they stop a motorist for a minor driving infraction such as a broken taillight or failing to signal when turning.  Once the driver is stopped, the car and its occupants are searched for drugs.  The search proceeds despite the fact that the police officers may have no pre-existing evidence of drug possession.  The pretext stops have been upheld by the Supreme Court.<sup>[8](#myfootnote8)</sup>  As part of the rollout of the War on Drugs, the Drug Enforcement Agency (DEA) launched a training program called Operation Pipeline to coach officers on how to employ this method; ever since it has been a long-standing approach by law enforcement.<sup>[9](#myfootnote9)</sup>
 
 When the War on Drugs began, drug use was declining and arrests for drug offences were not the top priority among state and local enforcement. Police officers needed a reason to prioritize arrests for drug offences over offences for against property or person.  This incentive came in the form of additional federal funding.
 
-In 1988, the Reagan administration revised the program that provided federal aid to state and local police, and renamed it the Byrn program.  The funding was designed to encourage recipients to fight the War on Drugs, by building more narcotics task forces, including the same pretext stops described earlier.  It also, enabled local police forces to buy military-grade hardware to patrol their streets.  Police forces need a reason to use this new shiny hardware; thus the prevalence of SWAT (Special Weapons and Tactics) raids for drug offences became more common.  SWAT teams inflict sudden, unannounced and forced entries into a residence,  terrifying its residents.  Unfortunately, there have been raids that resulted in the deaths of innocent bystanders, and individuals not involved in the drug trade, due to mistaken identify or incorrect address.<sup>[10](#myfootnote10)</sup>
+In 1988, the Reagan administration revised the program that provided federal aid to state and local police, and renamed it the Byrn program.  The funding was designed to encourage recipients to fight the War on Drugs, by building more narcotics task forces, including those using the same pretext stops described earlier.  It also, enabled local police forces to buy military-grade hardware to patrol their streets.  Police forces need a reason to use this new shiny hardware; thus the prevalence of SWAT (Special Weapons and Tactics) raids for drug offences became more common.  SWAT teams inflict sudden, unannounced and forced entries into a residence,  terrifying its residents.  Unfortunately, there have been raids that resulted in the deaths of innocent bystanders, and individuals not involved in the drug trade, due to mistaken identify or incorrect address.<sup>[10](#myfootnote10)</sup>
 
-The Reagan administration introduced another new financial incentive to the War on Drugs: forfeiture.  Police departments could keep the vast majority of cash and assets that were seized during drug operations so they could increase the number of officers they could hire and the equipment they could buy. The larger and better equipped the police department was, the more motorists they could stop and check their vehicles for drugs.  There was very little recourse for those who had their assets seized.  The required evidence for probable cause was very low for the police to prove that the assets were indeed related to a drug crime. It was up to the accused to prove their innocence, and they could not afford to pay a lawyer to petition to have their property returned.  Those who did, including those higher up in the drug distribution chain.  They were were less likely to receive prison sentences.  The end result was that people who were charged with possession, or small amounts for trafficking were more likely to haver longer prison sentences than those able to pay a lawyer.<sup>[11](#myfootnote11)</sup>
+The Reagan administration introduced another new financial incentive to the War on Drugs: forfeiture.  Police departments could keep the vast majority of cash and assets that were seized during drug operations so they could increase the number of officers they could hire and the equipment they could buy. The larger and better equipped the police department was, the more motorists they could stop and check their vehicles for drugs.  There was very little recourse for those who had their assets seized.  The required evidence for probable cause was very low for the police to prove that the assets were indeed related to a drug crime. It was up to the accused to prove their innocence, and many could not afford to pay a lawyer to petition to have their property returned.  Those who did have the means to hire representation were often those higher up in the drug distribution chain.  They were were less likely to receive prison sentences.  The end result was that people who were charged with possession, or small amounts for trafficking were more likely to haver longer prison sentences than those able to pay a lawyer.<sup>[11](#myfootnote11)</sup>  People who committed lesser crimes had longer sentences. 
 
 Forfeiture of property as a result of suspected involvement in drug crimes enabled police departments to significantly increase their budgets.  In 2000, the Civil Asset Forfeiture Reform Act was passed by Congress to address these issues, including shifting the burden of proof to the government in the case of forfeiture, removing the restriction that the owner post bond, and allocating protections for innocent people who could have lost their homes.  It did not, however, address the root of the problem with linking forfeiture and drug arrests: profit.  Police departments have a strong incentive to continue to increase drug arrests that lead to prison time.
 <sup>[12](#myfootnote12)</sup> 
 
-Once arrested, most cases never go to trial in exchange for a reduced sentence by plea bargain or leniency.  Mandatory minimums, and three strikes laws have encouraged people to plead out to avoid longer sentences, especially in the case of children charged with crimes.  Prosecutors have enormous power and can dismiss a case or add additional charges at their discretion.<sup>[42](#myfootnote42)</sup> Some sentences for drug offences have longer sentences than those for violent crimes, which arguably have a more detrimental impact on the community.  68% of people that are released are rearrested with a new offense.  Much of this is due to economic factors such as the inability to find a job.<sup>[43](#myfootnote43)</sup>  One third of prison re-admittance are due to parole violations<sup>[44](#myfootnote44)</sup>
+Once arrested, most cases never go to trial in exchange for a reduced sentence by plea bargain or leniency.  97% of those charged with a felony never face a judge and jury to evaluate their case<sup>[42](#myfootnote42)</sup>.  Mandatory minimums, and three strikes laws have encouraged people to plead out to avoid longer sentences, especially in the case of children charged with crimes.  Prosecutors have enormous power and can dismiss a case or add additional charges at their discretion.<sup>[42](#myfootnote42)</sup> Some sentences for drug offences have longer sentences than those for violent crimes, which arguably have a more detrimental impact on the community.  68% of people that are released are rearrested with a new offense.  Much of this is due to economic factors such as the inability to find a job.<sup>[43](#myfootnote43)</sup>  One third of prison re-admittance are due to parole violations<sup>[44](#myfootnote44)</sup>
 
 
 From the American Bar Association, 
 
 *Far from ensuring that individuals are afforded a meaningful right to counsel, current indigent defense systems often operate at substandard levels and provide woefully inadequate representation.  Witnesses described programs bereft of the funding and resources necessary to afford even the most basic tools essential for an effective defense.  As a result, literally thousands of accused poor persons who are unable to afford counsel routinely are denied, either entirely or in part, meaningful legal representation.  Too often when attorneys are provided, crushing workloads make it impossible for them to devote sufficient time to their cases, leading to widespread breaches of professional obligations.  To make matters worse, exceedingly modest compensation deters private attorneys from per forming more than the bare minimum required for payment.  Further, the structure of indigent defense systems often means that judges and/or state and county officials control the attorneys, thereby denying them the professional independence afforded to their prosecution counterparts and to their colleagues retained by paying clients.  Taken as whole, glaring deficiencies in indigent defense services result in a fundamentally unfair criminal justice system that constantly risks convicting persons who are genuinely innocent of the charges lodged against them.* <sup>[13](#myfootnote13)</sup> 
 
-Justice is not colourblind. The use and sale of illegal drugs is done at remarkably consistent rates across different ethic groups; however, there are stark differences in the rate at which people are labelled a felon or sent to prison.  The number of black Americans incarcerated for drug crimes has increased more than twenty six times from 1983 to 2000, twenty two times for Latinx groups, and eight times for whites.<sup>[45](#myfootnote45)</sup> Despite this, Human Rights watch reports that this same year, white youth are much more likely to sell or possess illegal drugs and visit the emergency room for drug related visits at a rate of three times those of their black counterparts.<sup>[46](#myfootnote46)</sup> Despite evidence to the contrary, the image portrayed by the media is that drug use and sale an affliction of communities of colour.
+Justice is not colourblind. The use and sale of illegal drugs is done at remarkably consistent rates across different ethic groups; however, there are stark differences in the rate at which people are labelled a felon or sent to prison.  The number of black Americans incarcerated for drug crimes has increased more than twenty six times from 1983 to 2000, twenty two times for Latinx groups, and eight times for whites.<sup>[45](#myfootnote45)</sup> (The overall US population rose 17% during this same time period). Despite this, Human Rights watch reports that in the year 2000, white youth were much more likely to sell or possess illegal drugs and visit the emergency room for drug related visits at a rate of three times those of their black counterparts.<sup>[46](#myfootnote46)</sup> Despite evidence to the contrary, the image portrayed by the media is that drug use and sale an affliction of communities of colour.
 
 The large numbers of people of colour labelled a felon, or subsequently imprisoned is a result of racial bias. Racial bias is applied when conducting pretext stops,  and is prevalent in the justice system.  A statistical analysis of sentencing in Georgia demonstrated that blacks were 4.3 times more likely to receive the death sentence for a murder conviction than whites who were found guilty of the same crime. <sup>[47](#myfootnote47)</sup> There is also discrimination in jury selection. It is easy for prosecutors to select all white juries.<sup>[48](#myfootnote48)</sup>
 
-In subsequent federal administrations, being seen as "tough on crime" was considered as a precursor to a elector success. Bill Clinton passed the "Violent Crime Control and Law Enforcement Act" which expanded the classes of crimes that would result in the death penalty, eliminated funding for higher Education for inmates, and implemented a three-strikes provision for repeat offenders.<sup>[49](#myfootnote49)</sup>  The prison population to grow and more prisons were built.
+In subsequent federal administrations since the 1980s, being seen as "tough on crime" was considered as a precursor to a elector success. Bill Clinton passed the "Violent Crime Control and Law Enforcement Act" which expanded the classes of crimes that would result in the death penalty, eliminated funding for higher Education for inmates, and implemented a three-strikes provision for repeat offenders.<sup>[49](#myfootnote49)</sup>  The prison population to grow and more prisons were built.
 
 
 ## Profit from Punishment 
@@ -101,7 +100,7 @@ Prison labour is exploited by mining and farming industries, call centers and ma
 
 ##Women in Prison
 
-The incarceration rate for women in the United States is 127 per 100,000 people, second only to Thailand on a global basis. As a comparison, its northern neighbour Canada incarcerates 11 per 100,000.  <sup>[35](#myfootnote35)</sup> (This is not to say that Canada doesn&#x27;t have serious issues within it&#x27;s prison systems, Indigenous people are overrepresented for similar reasons of systemic racism and stop and frisk)<sup>[38](#myfootnote38)</sup>
+The incarceration rate for women in the United States is 127 per 100,000 people, second only to Thailand on a global basis. As a comparison, its northern neighbour Canada incarcerates 11 per 100,000.  <sup>[35](#myfootnote35)</sup>
 
 From a New York Times Report on Women in Prison:<sup>[30](#myfootnote30)</sup>
 
@@ -112,7 +111,7 @@ From a New York Times Report on Women in Prison:<sup>[30](#myfootnote30)</sup>
 *Mass incarceration also has an abysmal record. Recidivism is high, and imprisonment breaks up and impoverishes families. A newly published study from the Russell Sage Foundation found that incarceration of a family member is associated with a 64 percent decline in household assets, magnifying poverty and the race gap in America. And the 2.6 million American children who have a parent in prison or jail pay an enormous price.*
 <sup>[36](#myfootnote36)</sup> 
 
-The most common reason for a woman to be incarcerated in America is drug abuse.  Until drug addiction is treated as a public health issue, rather than a moral failing worthy of long prison sentences, families will continue to have their bonds strained by separation, and children with a parent in prison will continue to be economically. (todo add quote about household assets)
+The most common reason for a woman to be incarcerated in America is drug abuse.  Until drug addiction is treated as a public health issue, rather than a moral failing worthy of long prison sentences, families will continue to have their bonds strained by separation, and children with a parent in prison will continue to be economically.
 
 ##After Prison
 
@@ -131,13 +130,15 @@ Which countries serve as a model for a more humane system of incarceration?  Nor
 
 *"In closed prisons we keep them locked up for some years and then let them back out, not having had any real responsibility for working or cooking. In the law, being sent to prison is nothing to do with putting you in a terrible prison to make you suffer. The punishment is that you lose your freedom. If we treat people like animals when they are in prison they are likely to behave like animals. Here we pay attention to you as human beings."*<sup>[36](#myfootnote40)</sup>
 
-There have been changes in the Unites States that serve to reduce the cost and harm associated with mass incarceration.  In fact, a recent study from the Brennan Center states that 39% of America&#x27;s prison population or 576,000 people are "unnecessarily incarcerated".<sup>[2](#myfootnote2)</sup>  In other words, there is no public safety rationale for locking them up, and only increases the recidivism rate.  For example South Carolina, has reduced the mandatory minimums for some drug possession crimes,  allowing offenders to perform community service, pay fees or fines or consent to electronic monitoring. The result is that the recidivism rate in the state has gone down, and they have closed prisons.
-
-
-Mass Incarceration marginalizes predominately black, Latinx and Indigeneous people from participating fully in society.  They are predominately targeted for police for drugs despite the fact that white people consume drugs at similar rates.  97% of those charged with a felony never face a judge and jury to evaluate their case.  They enter a plea bargain to avoid the long mandatory minimum sentences associated with many crimes.  If they cannot afford a lawyer, legal services for the indigent are deeply understaffed and are unable to provide adequate services to their clients.<sup>[20](#myfootnote20)</sup> Once they have pleaded to a felony, their rights to public health care, education support, housing, welfare and voting rights may be curtailed for several years, or the rest of their life, depending on the jurisdiction.  Drug addiction is treated as a moral failure that requires a prison sentence instead of as a public health issue. Implementation of policies for harm reduction for people with substance abuse issues versus imprisonment have better outcomes for lower recidivism rates.<sup>[36](#myfootnote36)</sup> 
+There have been changes in the Unites States that serve to reduce the cost and harm associated with mass incarceration.  In fact, a recent study from the Brennan Center states that 39% of America&#x27;s prison population or 576,000 people are "unnecessarily incarcerated".<sup>[2](#myfootnote2)</sup>  In other words, there is no public safety rationale for locking them up, and only increases the recidivism rate.
 
 Some state legislatures have recently reduced sentences for drug offences. This is not due to concern for the people impacted by these harsh drug laws, but rather an attempt to reduce the large scale prison costs associated with incarcerating so many people. The impact of reduced sentences does little to improve the prospects of the people who return to their communities after being incarcerated as they still have a felony conviction and it&#x27;s economic and social consequences. 
 <sup>[5](#myfootnote5)</sup>
+
+South Carolina has reduced the mandatory minimums for some drug possession crimes,  allowing offenders to perform community service, pay fees or fines or consent to electronic monitoring. The result is that the recidivism rate in the state has gone down, and they have closed prisons.<sup>[2](#myfootnote2)</sup>
+
+*More than a century later, our prison labor system has only grown. We now incarcerate more than 2.2 million people, with the largest prison population in the world, and the second highest incarceration rate per capita. Our prison populations remain racially skewed.* 
+<sup>[31](#myfootnote31)</sup>
 
 Looking at a large scale system, we should always step back and ask "What are we optimizing this system for?". In the case of mass incarceration and the prison industrial complex, we are optimizing to shut disproportionately large numbers of people of colour behind bars, with few rights or supports to allow them to succeed after release, all while large corporations profit from cheap labour and increasing numbers of private prisons.
 
@@ -148,7 +149,7 @@ Looking at a large scale system, we should always step back and ask "What are we
 * <a name="myfootnote3">3</a>: https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964 https://en.wikipedia.org/wiki/Richardson_v._Ramirez
 * <a name="myfootnote4">4</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colorblindness, page 4
 * <a name="myfootnote5">5</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colorblindness, page 14
-* <a name="myfootnote6">6</a>: Elizabeth Hinton, From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America, page 14
+* <a name="myfootnote6">6</a>: Elizabeth Hinton, From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America, page 14 - todo reference not needed text removed
 * <a name="myfootnote7">7</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colorblindness, page 60 
 * <a name="myfootnote8">8</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colorblindness, page 68
 * <a name="myfootnote9">9</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colorblindness, page 70 
@@ -167,7 +168,7 @@ Looking at a large scale system, we should always step back and ask "What are we
 * <a name="myfootnote35">35</a>: Aleks Kajstura and Russ Immarigeon: "States of Women's Incarceration: The Global Context", Prison Policy Institute https://www.prisonpolicy.org/global/women/ 
 * <a name="myfootnote36">36</a>: Nicholas Kristof: "Mothers in Prison", New York Times, November 25, 2016 https://mobile.nytimes.com/2016/11/25/opinion/sunday/mothers-in-prison.html
 * <a name="myfootnote37">11</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colorblindness, page 143
-<a name="myfootnote38">38</a>: http://www.macleans.ca/news/canada/canadas-prisons-are-the-new-residential-schools/ (Investigation why the Canadian Justice system is biased against indigeneous people) 
+<a name="myfootnote38">38</a>: http://www.macleans.ca/news/canada/canadas-prisons-are-the-new-residential-schools/ (Investigation why the Canadian Justice system is biased against indigeneous people) todo - removed text - still needed? 
 * <a name="myfootnote40">40</a>: Erwin James, "The Norwegian prison where inmates are treated like people", The Guardian, February 25 2013,https://www.theguardian.com/society/2013/feb/25/norwegian-prison-inmates-treated-like-people
 * <a name="myfootnote41">41</a>: Matt Ford, The Atlantic, December 16, 2016, A Blueprint to End Mass Incarceration, https://www.theatlantic.com/politics/archive/2016/12/mass-incarceration-brennan-center/510749/?utm_source=twb
 * <a name="myfootnote42">42</a>: Michelle Alexander: The New Jim Crow: Mass Incarceration in the Age of Colorblindness, page 86-87
