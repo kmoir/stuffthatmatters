@@ -1,16 +1,17 @@
 
 ###Notes for reviewers
 Topics I included in original outline but omitted due to lack of space in draft:  (Let me know if I should include them)
-* references to Canada and mass incarceration of indigenous people. I removed this  due to lack of space but perhaps this should be included.
+* references to Canada and mass incarceration of indigenous people.
 * mass incarceration for detained immigrants?
 * fines on people as a way to bolster city revenues i.e. Ferguson?
 * state surveillance of communities of colour
 * ALEC - corporations pay to influence prison legislation
 * racial profiling in policing  as well as whites more likely to carry contraband in cars (p133 Jim Crow book)
-* to do current numbers for
 * police brutality associated with stop and frisk
 *  mention activists working for criminal justice reform
+* billing parents for fees for their incarcerated children https://www.themarshallproject.org/2017/03/02/your-kid-goes-to-jail-you-get-the-bill#.y0cr1KKKI
 * Many of my excerpts from books are from experts instead the people themselves that were incarcerated. Perhaps I should include more of their stories?
+* sentencing for crack cocaine had longer sentences that powdered cocaine, extremely unequal sentencing
 Summarize at end?
 1) % spent on rehabilitation vs other costs
 2) total prison pop - by gender, racial identity
@@ -41,7 +42,7 @@ From the book "The New Jim Crow: Mass Incarceration in the Age of Colorblindness
 
 * ..I came to see that mass incarceration in the United States, had in fact, emerged as a stunningly comprehensive and well-disguised system of racialized social control that functions in a manner similar to Jim Crow* <sup>[4](#myfootnote4)</sup>
 
-Richard Nixon coined the term "War on Drugs", however, the number of people incarcerated for drug offenses skyrocketed with the first term of the Reagan administration. Drug arrests have tripled since 1980;more than 31 million people have been incarcerated.<sup>[7](#myfootnote5)</sup>  The War on Drugs was marketed as a way reduce the number of high volume distributors; however, this is not the case and the vast majority of arrests have been for possession, not distribution.  The increased number of prisoners has led to a corresponding increase in the number of prisons built.  Where did this begin?
+Richard Nixon coined the term "War on Drugs", however, the number of people incarcerated for drug offenses began to skyrocket during the first term of the Reagan administration. Drug arrests have tripled since 1980; more than 31 million people have been incarcerated.<sup>[7](#myfootnote5)</sup>  The War on Drugs was marketed as a way reduce the number of high volume distributors; however, this is not the case and the vast majority of arrests have been for possession, not distribution.  The increased number of prisoners has led to a corresponding increase in the number of prisons built.  Where did this begin?
 
 The Fourth Amendment of the United States Constitution protects against unreasonable search and seizure; but this has been ignored by the courts when it comes to unreasonable searches for drugs.  Police officers often engage in pretext stops; that is they stop a motorist for a minor driving infraction such as a broken taillight or failing to signal when turning.  Once the driver is stopped, the car and its occupants are searched for drugs.  The search proceeds despite the fact that the police officers may have no pre-existing evidence of drug possession.  The pretext stops have been upheld by the Supreme Court.<sup>[8](#myfootnote8)</sup>  As part of the rollout of the War on Drugs, the Drug Enforcement Agency (DEA) launched a training program called Operation Pipeline to coach officers on how to employ this method; ever since it has been a long-standing approach by law enforcement.<sup>[9](#myfootnote9)</sup>
 
@@ -54,7 +55,7 @@ The Reagan administration introduced another new financial incentive to the War 
 Forfeiture of property as a result of suspected involvement in drug crimes enabled police departments to significantly increase their budgets.  In 2000, the Civil Asset Forfeiture Reform Act was passed by Congress to address these issues, including shifting the burden of proof to the government in the case of forfeiture, removing the restriction that the owner post bond, and allocating protections for innocent people who could have lost their homes.  It did not, however, address the root of the problem with linking forfeiture and drug arrests: profit.  Police departments have a strong incentive to continue to increase drug arrests that lead to prison time.
 <sup>[12](#myfootnote12)</sup> 
 
-Once arrested, most cases never go to trial in exchange for a reduced sentence by plea bargain or leniency.  97% of those charged with a felony never face a judge and jury to evaluate their case<sup>[42](#myfootnote42)</sup>.  Mandatory minimums, and three strikes laws have encouraged people to plead out to avoid longer sentences, especially in the case of children charged with crimes.  Prosecutors have enormous power and can dismiss a case or add additional charges at their discretion.<sup>[42](#myfootnote42)</sup> Some sentences for drug offences have longer sentences than those for violent crimes, which arguably have a more detrimental impact on the community.  68% of people that are released are rearrested with a new offense.  Much of this is due to economic factors such as the inability to find a job.<sup>[43](#myfootnote43)</sup>  One third of prison re-admittance are due to parole violations<sup>[44](#myfootnote44)</sup>
+Once arrested, most cases never go to trial in exchange for a reduced sentence by plea bargain or leniency.  97% of those charged with a felony never face a judge and jury to evaluate their case<sup>[42](#myfootnote42)</sup>.  Mandatory minimums, and three strikes laws have encouraged people to plead out to avoid longer sentences, especially in the case of children charged with crimes.  Prosecutors have enormous power and can dismiss a case or add additional charges at their discretion.<sup>[42](#myfootnote42)</sup> Some sentences for drug offences have longer sentences than those for violent crimes, which arguably have a more detrimental impact on the community.  68% of people that are released are rearrested with a new offense.  Much of this is due to economic factors such as the inability to find a job.<sup>[43](#myfootnote43)</sup>  One third of prison re-admittances are due to parole violations<sup>[44](#myfootnote44)</sup>
 
 
 From the American Bar Association, 
@@ -65,12 +66,12 @@ Justice is not colourblind. The use and sale of illegal drugs is done at remarka
 
 The large numbers of people of colour labelled a felon, or subsequently imprisoned is a result of racial bias. Racial bias is applied when conducting pretext stops,  and is prevalent in the justice system.  A statistical analysis of sentencing in Georgia demonstrated that blacks were 4.3 times more likely to receive the death sentence for a murder conviction than whites who were found guilty of the same crime. <sup>[47](#myfootnote47)</sup> There is also discrimination in jury selection. It is easy for prosecutors to select all white juries.<sup>[48](#myfootnote48)</sup>
 
-In subsequent federal administrations since the 1980s, being seen as "tough on crime" was considered as a precursor to a elector success. Bill Clinton passed the "Violent Crime Control and Law Enforcement Act" which expanded the classes of crimes that would result in the death penalty, eliminated funding for higher Education for inmates, and implemented a three-strikes provision for repeat offenders.<sup>[49](#myfootnote49)</sup>  The prison population to grow and more prisons were built.
+In subsequent federal administrations since the 1980s, being seen as "tough on crime" was considered as a precursor to a elector success. Bill Clinton passed the "Violent Crime Control and Law Enforcement Act" which expanded the classes of crimes that would result in the death penalty, eliminated funding for higher Education for inmates, and implemented a three-strikes provision for repeat offenders.<sup>[49](#myfootnote49)</sup>  The prison population continued to grow and more prisons were built.
 
 
 ## Profit from Punishment 
 
-To cope with the growth in prison populations, the federal government outsourced the operation of some prisons to private companies, such as Corrections Corporation of America,(CoreCivic).  Contracts for private prisons are negotiated on a per-diem basis, with a set cost per day per prisoner for healthcare, food and accommodations.  Private prisons aim to generate the highest profits possible for shareholders and company executives, a goal that is directly in opposition to providing quality care for the inhabitants. The unsurprising outcome was a reduced level of are for prisoners in private prisons, with devastating results.  The South Bend Tribune describes the case of a tort claim filed by civil rights attorney Micheal Sutherland against the Indiana Women&#x27;s prison:
+To cope with the growth in prison populations, the federal government outsourced the operation of some prisons to private companies, such as Corrections Corporation of America (CoreCivic).  Contracts for private prisons are negotiated on a per-diem basis, with a set cost per day per prisoner for healthcare, food and accommodations.  Private prisons aim to generate the highest profits possible for shareholders and company executives, a goal that is directly in opposition to providing quality care for the inhabitants. The unsurprising outcome was a reduced level of are for prisoners in private prisons, with devastating results.  The South Bend Tribune describes the case of a tort claim filed by civil rights attorney Micheal Sutherland against the Indiana Women&#x27;s prison:
 
 *The prisoner, Tiffany Smith, described in a letter the events that began with excruciating pain, nausea, and a large knot that emerged on the right side of her abdomen, where her skin had turned black. The 35-year-old said even guards remarked on the lack of medical response to what turned out to be a ruptured appendix.*  
 
@@ -87,9 +88,9 @@ In August 2016, Deputy Attorney Sally Yates released a memo indicating that the 
 
 ##Prison Labour
 
-From the Atlantic article "American Slavery, Reinvented":<sup>[31](#myfootnote31)</sup>
-
 The Thirteenth Amendment to the United States Constitution abolished slavery and involuntary servitude.  There is one exception - as punishment for a crime.  Pprisoners can be forced to work, and paid nothing or a few pennies an hour.
+
+From the Atlantic article "American Slavery, Reinvented":<sup>[31](#myfootnote31)</sup>
 
 *With few exceptions, inmates are required to work if cleared by medical professionals at the prison. Punishments for refusing to do so include solitary confinement, loss of earned good time, and revocation of family visitation. For this forced labor, prisoners earn pennies per hour, if anything at all.*
 <sup>[31](#myfootnote31)</sup>
@@ -111,11 +112,11 @@ From a New York Times Report on Women in Prison:<sup>[30](#myfootnote30)</sup>
 *Mass incarceration also has an abysmal record. Recidivism is high, and imprisonment breaks up and impoverishes families. A newly published study from the Russell Sage Foundation found that incarceration of a family member is associated with a 64 percent decline in household assets, magnifying poverty and the race gap in America. And the 2.6 million American children who have a parent in prison or jail pay an enormous price.*
 <sup>[36](#myfootnote36)</sup> 
 
-The most common reason for a woman to be incarcerated in America is drug abuse.  Until drug addiction is treated as a public health issue, rather than a moral failing worthy of long prison sentences, families will continue to have their bonds strained by separation, and children with a parent in prison will continue to be economically.
+The most common reason for a woman to be incarcerated in America is drug abuse.  Until drug addiction is treated as a public health issue, rather than a moral failing worthy of long prison sentences, families will continue to have their bonds strained by separation, and children with a parent in prison will continue to be economically devastated.
 
 ##After Prison
 
-After completng their sentences, prisoners face a new set of struggles.  A person with a felony conviction may not be be able to vote for a certain period of time or forever. The Supreme Court has upheld this restriction not violating the 14th amendment.<sup>[33](#myfootnote33)</sup>
+After completng their sentences, prisoners face a new set of struggles.  A person with a felony conviction may not be be able to vote for a certain period of time or forever. The Supreme Court has upheld this restriction as not violating the 14th amendment.<sup>[33](#myfootnote33)</sup>
 
 People with a felony conviction are often unable to qualify for many types of employment, public housing, federally funded health benefits, food stamps and educational benefits, depending on the jurisdiction.  Judges are not under obligation to inform the accused that they will lose these rights if they plead out to a felony.
 
@@ -130,10 +131,9 @@ Which countries serve as a model for a more humane system of incarceration?  Nor
 
 *"In closed prisons we keep them locked up for some years and then let them back out, not having had any real responsibility for working or cooking. In the law, being sent to prison is nothing to do with putting you in a terrible prison to make you suffer. The punishment is that you lose your freedom. If we treat people like animals when they are in prison they are likely to behave like animals. Here we pay attention to you as human beings."*<sup>[36](#myfootnote40)</sup>
 
-There have been changes in the Unites States that serve to reduce the cost and harm associated with mass incarceration.  In fact, a recent study from the Brennan Center states that 39% of America&#x27;s prison population or 576,000 people are "unnecessarily incarcerated".<sup>[2](#myfootnote2)</sup>  In other words, there is no public safety rationale for locking them up, and only increases the recidivism rate.
+A recent study from the Brennan Center states that 39% of America&#x27;s prison population or 576,000 people are "unnecessarily incarcerated".<sup>[2](#myfootnote2)</sup>  In other words, there is no public safety rationale for locking them up, and only increases the recidivism rate.
 
-Some state legislatures have recently reduced sentences for drug offences. This is not due to concern for the people impacted by these harsh drug laws, but rather an attempt to reduce the large scale prison costs associated with incarcerating so many people. The impact of reduced sentences does little to improve the prospects of the people who return to their communities after being incarcerated as they still have a felony conviction and it&#x27;s economic and social consequences. 
-<sup>[5](#myfootnote5)</sup>
+There have been changes in the Unites States that serve to reduce the cost and harm associated with mass incarceration.  Some state legislatures have recently reduced sentences for drug offences. This is not due to concern for the people impacted by these harsh drug laws, but rather an attempt to reduce the large scale prison costs associated with incarcerating so many people. The impact of reduced sentences does little to improve the prospects of the people who return to their communities after being incarcerated as they still have a felony conviction and it&#x27;s economic and social consequences.<sup>[5](#myfootnote5)</sup>
 
 South Carolina has reduced the mandatory minimums for some drug possession crimes,  allowing offenders to perform community service, pay fees or fines or consent to electronic monitoring. The result is that the recidivism rate in the state has gone down, and they have closed prisons.<sup>[2](#myfootnote2)</sup>
 
