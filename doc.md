@@ -10,6 +10,7 @@ Topics I included in original outline but omitted due to lack of space in draft:
 * police brutality associated with stop and frisk
 *  mention activists working for criminal justice reform
 * billing parents for fees for their incarcerated children https://www.themarshallproject.org/2017/03/02/your-kid-goes-to-jail-you-get-the-bill#.y0cr1KKKI
+* mass incarceration undermines political engagement https://www.prisonpolicy.org/blog/2017/03/10/politicalprocess/
 * Many of my excerpts from books are from experts instead the people themselves that were incarcerated. Perhaps I should include more of their stories?
 * sentencing for crack cocaine had longer sentences that powdered cocaine, extremely unequal sentencing
 * Summarize at end?
@@ -136,9 +137,6 @@ A recent study from the Brennan Center states that 39% of America&#x27;s prison 
 There have been changes in the Unites States that serve to reduce the cost and harm associated with mass incarceration.  Some state legislatures have recently reduced sentences for drug offences. This is not due to concern for the people impacted by these harsh drug laws, but rather an attempt to reduce the large scale prison costs associated with incarcerating so many people. The impact of reduced sentences does little to improve the prospects of the people who return to their communities after being incarcerated as they still have a felony conviction and its economic and social consequences.<sup>[5](#myfootnote5)</sup>
 
 South Carolina has reduced the mandatory minimums for some drug possession crimes,  allowing offenders to perform community service, pay fees or fines or consent to electronic monitoring. The result is that the recidivism rate in the state has gone down, and they have closed prisons.<sup>[2](#myfootnote2)</sup>
-
-*More than a century later, our prison labor system has only grown. We now incarcerate more than 2.2 million people, with the largest prison population in the world, and the second highest incarceration rate per capita. Our prison populations remain racially skewed.* 
-<sup>[31](#myfootnote31)</sup>
 
 Looking at a large scale system, we should always step back and ask "What are we optimizing this system for?" In the case of mass incarceration and the prison industrial complex, we are optimizing to shut disproportionately large numbers of people of colour behind bars, with few rights or supports to allow them to succeed after release, all while large corporations profit from cheap labour and increasing numbers of private prisons.
 
