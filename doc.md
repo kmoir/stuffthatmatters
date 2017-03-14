@@ -12,7 +12,7 @@ Topics I included in original outline but omitted due to lack of space in draft:
 * billing parents for fees for their incarcerated children https://www.themarshallproject.org/2017/03/02/your-kid-goes-to-jail-you-get-the-bill#.y0cr1KKKI
 * Many of my excerpts from books are from experts instead the people themselves that were incarcerated. Perhaps I should include more of their stories?
 * sentencing for crack cocaine had longer sentences that powdered cocaine, extremely unequal sentencing
-Summarize at end?
+* Summarize at end?
 1) % spent on rehabilitation vs other costs
 2) total prison pop - by gender, racial identity
 3) % suffering from mental illness
