@@ -1,7 +1,6 @@
 
 ###Notes for reviewers
 Topics I included in original outline but omitted due to lack of space in draft:  (Let me know if I should include them)
-* references to Canada and mass incarceration of indigenous people.
 * mass incarceration for detained immigrants?
 * fines on people as a way to bolster city revenues i.e. Ferguson?
 * state surveillance of communities of colour
@@ -26,7 +25,7 @@ Topics I included in original outline but omitted due to lack of space in draft:
 
 From the Southern Poverty Law Center:
 
-*It’s a system marred by vast racial disparities – one that stigmatizes and targets young black men for arrest at a young age, unfairly punishes communities of color, burdens taxpayers and exacts a tremendous social cost. Today, African-American men who failed to finish high school are more likely to be behind bars than employed.* <sup>[1](#myfootnote1)</sup>
+*It’s a system marred by vast racial disparities – one that stigmatizes and targets young black men for arrest at a young age, unfairly punishes communities of color, burdens taxpayers and exacts a tremendous social cost. Today, African-American men who failed to finish high school are more likely to be behind bars than employed.*<sup>[1](#myfootnote1)</sup>
 
 From the Atlantic article "A Blueprint to End Mass Incarceration":
 
@@ -41,7 +40,7 @@ People with felony convictions can be legally denied voting rights, educational 
 
 From the book "The New Jim Crow: Mass Incarceration in the Age of Colorblindness" by Michelle Alexander:
 
-* ...I came to see that mass incarceration in the United States, had in fact, emerged as a stunningly comprehensive and well-disguised system of racialized social control that functions in a manner similar to Jim Crow* <sup>[4](#myfootnote4)</sup>
+* ...I came to see that mass incarceration in the United States, had in fact, emerged as a stunningly comprehensive and well-disguised system of racialized social control that functions in a manner similar to Jim Crow*<sup>[4](#myfootnote4)</sup>
 
 Richard Nixon coined the term "War on Drugs", however the number of people incarcerated for drug offenses began to skyrocket during the first term of the Reagan administration. Drug arrests have tripled since 1980; more than 31 million people have been incarcerated.<sup>[7](#myfootnote5)</sup>  The War on Drugs was marketed as a way to reduce the number of high volume distributors; however, the vast majority of arrests have been for possession, not distribution.  The increased number of prisoners has led to a corresponding increase in the number of prisons built.  Where did this begin?
 
@@ -65,7 +64,7 @@ From the American Bar Association,
 
 Justice is not colourblind. The use and sale of illegal drugs is done at remarkably consistent rates across different ethic groups; however, there are stark differences in the rate at which people are labelled felons or sent to prison.  The number of black Americans incarcerated for drug crimes has increased more than twenty six times from 1983 to 2000, twenty two times for Latinx groups, and eight times for whites.<sup>[45](#myfootnote45)</sup> (The overall US population rose 17% during this same time period). Despite this, Human Rights Watch reports that in the year 2000, white youth were much more likely to sell or possess illegal drugs.  White youth visited the emergency room for drug related visits at a rate of three times those of their black counterparts.<sup>[46](#myfootnote46)</sup> Despite evidence to the contrary, the image portrayed by the media is that drug use and sale is an affliction of communities of colour.
 
-The large numbers of people of colour labelled felons, or subsequently imprisoned is a result of racial bias. Racial bias is applied when conducting pretext stops,  and is prevalent in the justice system.  A statistical analysis of sentencing in Georgia demonstrated that blacks were 4.3 times more likely to receive the death sentence for a murder conviction than whites who were found guilty of the same crime. <sup>[47](#myfootnote47)</sup> There is also discrimination in jury selection. It is easy for prosecutors to select all white juries.<sup>[48](#myfootnote48)</sup>
+The large numbers of people of colour labelled felons, or subsequently imprisoned is a result of racial bias. Racial bias is applied when conducting pretext stops,  and is prevalent in the justice system.  A statistical analysis of sentencing in Georgia demonstrated that blacks were 4.3 times more likely to receive the death sentence for a murder conviction than whites who were found guilty of the same crime.<sup>[47](#myfootnote47)</sup> There is also discrimination in jury selection. It is easy for prosecutors to select all white juries.<sup>[48](#myfootnote48)</sup>
 
 In subsequent federal administrations since the 1980s, being seen as "tough on crime" was considered as a precursor to an election success. Bill Clinton passed the "Violent Crime Control and Law Enforcement Act" which expanded the classes of crimes that would result in the death penalty, eliminated funding for higher education for inmates, and implemented a three-strikes provision for repeat offenders.<sup>[49](#myfootnote49)</sup>  The prison population continued to grow and more prisons were built.
 
@@ -102,7 +101,7 @@ Prison labour is exploited by mining and farming industries, call centers and ma
 
 ##Women in Prison
 
-The incarceration rate for women in the United States is 127 per 100,000 people, second only to Thailand on a global basis. As a comparison, its northern neighbour Canada incarcerates 11 per 100,000.  <sup>[35](#myfootnote35)</sup>
+The incarceration rate for women in the United States is 127 per 100,000 people, second only to Thailand on a global basis. As a comparison, its northern neighbour Canada incarcerates 11 per 100,000.<sup>[35](#myfootnote35)</sup>
 
 From a New York Times Report on Women in Prison:<sup>[30](#myfootnote30)</sup>
 
@@ -138,7 +137,7 @@ There have been changes in the United States that serve to reduce the cost and h
 
 South Carolina has reduced the mandatory minimums for some drug possession crimes,  allowing offenders to perform community service, pay fees or fines or consent to electronic monitoring. The result is that the recidivism rate in the state has gone down, and they have closed prisons.<sup>[2](#myfootnote2)</sup>
 
-Looking at a large scale system, we should always step back and ask "What are we optimizing this system for?" In the case of mass incarceration and the prison industrial complex, we are optimizing to shut disproportionately large numbers of people of colour behind bars, with few rights or supports to allow them to succeed after release, all while large corporations profit from cheap labour and increasing numbers of private prisons.
+Looking at a large scale system, we should always step back and ask "What are we optimizing this system for?" In the case of mass incarceration and the prison industrial complex, we are optimizing for the profit of private prisons.  Disproportionately large numbers of people of colour are put behind bars, with few rights or supports to allow them to succeed after release, all due to racism.  The result is destroyed lives, impoverished communities, and huge incarceration costs paid by the public.
 
 ## Footnotes
 
