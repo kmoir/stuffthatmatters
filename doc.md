@@ -100,7 +100,7 @@ Prison labour is exploited by mining and farming industries, call centers and ma
 
 ##Women in Prison
 
-The incarceration rate for women in the United States is 127 per 100,000 people, second only to Thailand on a global basis. As a comparison, its northern neighbour Canada incarcerates 11 per 100,000.<sup>[35](#myfootnote24)</sup>
+The incarceration rate for women in the United States is 127 per 100,000 people, second only to Thailand on a global basis. As a comparison, its northern neighbour Canada incarcerates 11 per 100,000.<sup>[24](#myfootnote24)</sup>
 
 From a New York Times Report on Women in Prison:<sup>[25](#myfootnote25)</sup>
 
